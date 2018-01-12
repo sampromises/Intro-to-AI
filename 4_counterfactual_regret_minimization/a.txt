@@ -1,0 +1,20 @@
+STRATEGY_PROFILE:
+	player: 0
+		infoset: 0
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 1
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 2
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 3
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 4
+			action probabilities: {0: 0.5, 1: 0.5}
+	player: 1
+		infoset: 0
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 1
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 2
+			action probabilities: {0: 0.5, 1: 0.5}
+Exploitability: 0.140113352898

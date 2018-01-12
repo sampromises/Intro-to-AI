@@ -1,0 +1,3109 @@
+Root: 45
+0  /JJ/22c , nature , actions: ['Q', 'K'] , children: [51, 57] , probabilities : [0.5, 0.5]
+1  /JJ/2c , nature , actions: ['Q', 'K'] , children: [64, 70] , probabilities : [0.5, 0.5]
+2  /JJ/c22c , nature , actions: ['Q', 'K'] , children: [77, 83] , probabilities : [0.5, 0.5]
+3  /JJ/c2c , nature , actions: ['Q', 'K'] , children: [90, 96] , probabilities : [0.5, 0.5]
+4  /JJ/cc , nature , actions: ['Q', 'K'] , children: [103, 109] , probabilities : [0.5, 0.5]
+5  /JQ/22c , nature , actions: ['J', 'Q', 'K'] , children: [117, 123, 129] , probabilities : [0.25, 0.25, 0.5]
+6  /JQ/2c , nature , actions: ['J', 'Q', 'K'] , children: [136, 142, 148] , probabilities : [0.25, 0.25, 0.5]
+7  /JQ/c22c , nature , actions: ['J', 'Q', 'K'] , children: [155, 161, 167] , probabilities : [0.25, 0.25, 0.5]
+8  /JQ/c2c , nature , actions: ['J', 'Q', 'K'] , children: [174, 180, 186] , probabilities : [0.25, 0.25, 0.5]
+9  /JQ/cc , nature , actions: ['J', 'Q', 'K'] , children: [193, 199, 205] , probabilities : [0.25, 0.25, 0.5]
+10  /JK/22c , nature , actions: ['J', 'Q', 'K'] , children: [213, 219, 225] , probabilities : [0.25, 0.5, 0.25]
+11  /JK/2c , nature , actions: ['J', 'Q', 'K'] , children: [232, 238, 244] , probabilities : [0.25, 0.5, 0.25]
+12  /JK/c22c , nature , actions: ['J', 'Q', 'K'] , children: [251, 257, 263] , probabilities : [0.25, 0.5, 0.25]
+13  /JK/c2c , nature , actions: ['J', 'Q', 'K'] , children: [270, 276, 282] , probabilities : [0.25, 0.5, 0.25]
+14  /JK/cc , nature , actions: ['J', 'Q', 'K'] , children: [289, 295, 301] , probabilities : [0.25, 0.5, 0.25]
+15  /QJ/22c , nature , actions: ['J', 'Q', 'K'] , children: [309, 315, 321] , probabilities : [0.25, 0.25, 0.5]
+16  /QJ/2c , nature , actions: ['J', 'Q', 'K'] , children: [328, 334, 340] , probabilities : [0.25, 0.25, 0.5]
+17  /QJ/c22c , nature , actions: ['J', 'Q', 'K'] , children: [347, 353, 359] , probabilities : [0.25, 0.25, 0.5]
+18  /QJ/c2c , nature , actions: ['J', 'Q', 'K'] , children: [366, 372, 378] , probabilities : [0.25, 0.25, 0.5]
+19  /QJ/cc , nature , actions: ['J', 'Q', 'K'] , children: [385, 391, 397] , probabilities : [0.25, 0.25, 0.5]
+20  /QQ/22c , nature , actions: ['J', 'K'] , children: [405, 411] , probabilities : [0.5, 0.5]
+21  /QQ/2c , nature , actions: ['J', 'K'] , children: [418, 424] , probabilities : [0.5, 0.5]
+22  /QQ/c22c , nature , actions: ['J', 'K'] , children: [431, 437] , probabilities : [0.5, 0.5]
+23  /QQ/c2c , nature , actions: ['J', 'K'] , children: [444, 450] , probabilities : [0.5, 0.5]
+24  /QQ/cc , nature , actions: ['J', 'K'] , children: [457, 463] , probabilities : [0.5, 0.5]
+25  /QK/22c , nature , actions: ['J', 'Q', 'K'] , children: [471, 477, 483] , probabilities : [0.5, 0.25, 0.25]
+26  /QK/2c , nature , actions: ['J', 'Q', 'K'] , children: [490, 496, 502] , probabilities : [0.5, 0.25, 0.25]
+27  /QK/c22c , nature , actions: ['J', 'Q', 'K'] , children: [509, 515, 521] , probabilities : [0.5, 0.25, 0.25]
+28  /QK/c2c , nature , actions: ['J', 'Q', 'K'] , children: [528, 534, 540] , probabilities : [0.5, 0.25, 0.25]
+29  /QK/cc , nature , actions: ['J', 'Q', 'K'] , children: [547, 553, 559] , probabilities : [0.5, 0.25, 0.25]
+30  /KJ/22c , nature , actions: ['J', 'Q', 'K'] , children: [567, 573, 579] , probabilities : [0.25, 0.5, 0.25]
+31  /KJ/2c , nature , actions: ['J', 'Q', 'K'] , children: [586, 592, 598] , probabilities : [0.25, 0.5, 0.25]
+32  /KJ/c22c , nature , actions: ['J', 'Q', 'K'] , children: [605, 611, 617] , probabilities : [0.25, 0.5, 0.25]
+33  /KJ/c2c , nature , actions: ['J', 'Q', 'K'] , children: [624, 630, 636] , probabilities : [0.25, 0.5, 0.25]
+34  /KJ/cc , nature , actions: ['J', 'Q', 'K'] , children: [643, 649, 655] , probabilities : [0.25, 0.5, 0.25]
+35  /KQ/22c , nature , actions: ['J', 'Q', 'K'] , children: [663, 669, 675] , probabilities : [0.5, 0.25, 0.25]
+36  /KQ/2c , nature , actions: ['J', 'Q', 'K'] , children: [682, 688, 694] , probabilities : [0.5, 0.25, 0.25]
+37  /KQ/c22c , nature , actions: ['J', 'Q', 'K'] , children: [701, 707, 713] , probabilities : [0.5, 0.25, 0.25]
+38  /KQ/c2c , nature , actions: ['J', 'Q', 'K'] , children: [720, 726, 732] , probabilities : [0.5, 0.25, 0.25]
+39  /KQ/cc , nature , actions: ['J', 'Q', 'K'] , children: [739, 745, 751] , probabilities : [0.5, 0.25, 0.25]
+40  /KK/22c , nature , actions: ['J', 'Q'] , children: [759, 765] , probabilities : [0.5, 0.5]
+41  /KK/2c , nature , actions: ['J', 'Q'] , children: [772, 778] , probabilities : [0.5, 0.5]
+42  /KK/c22c , nature , actions: ['J', 'Q'] , children: [785, 791] , probabilities : [0.5, 0.5]
+43  /KK/c2c , nature , actions: ['J', 'Q'] , children: [798, 804] , probabilities : [0.5, 0.5]
+44  /KK/cc , nature , actions: ['J', 'Q'] , children: [811, 817] , probabilities : [0.5, 0.5]
+45  / , nature , actions: ['JJ', 'JQ', 'JK', 'QJ', 'QQ', 'QK', 'KJ', 'KQ', 'KK'] , children: [111, 207, 303, 399, 465, 561, 657, 753, 819] , probabilities : [0.06666666666666667, 0.13333333333333333, 0.13333333333333333, 0.13333333333333333, 0.06666666666666667, 0.13333333333333333, 0.13333333333333333, 0.13333333333333333, 0.06666666666666667]
+46  /JJ/22c/Q/44 , player 0 , infoset: 3 , actions: ['c', 'f'] , children: [820, 821]
+47  /JJ/22c/Q/4 , player 1 , infoset: 1 , actions: ['4', 'c', 'f'] , children: [46, 822, 823]
+48  /JJ/22c/Q/c44 , player 1 , infoset: 3 , actions: ['c', 'f'] , children: [824, 825]
+49  /JJ/22c/Q/c4 , player 0 , infoset: 4 , actions: ['4', 'c', 'f'] , children: [48, 826, 827]
+50  /JJ/22c/Q/c , player 1 , infoset: 2 , actions: ['4', 'c'] , children: [49, 828]
+51  /JJ/22c/Q/ , player 0 , infoset: 2 , actions: ['4', 'c'] , children: [47, 50]
+52  /JJ/22c/K/44 , player 0 , infoset: 6 , actions: ['c', 'f'] , children: [829, 830]
+53  /JJ/22c/K/4 , player 1 , infoset: 4 , actions: ['4', 'c', 'f'] , children: [52, 831, 832]
+54  /JJ/22c/K/c44 , player 1 , infoset: 6 , actions: ['c', 'f'] , children: [833, 834]
+55  /JJ/22c/K/c4 , player 0 , infoset: 7 , actions: ['4', 'c', 'f'] , children: [54, 835, 836]
+56  /JJ/22c/K/c , player 1 , infoset: 5 , actions: ['4', 'c'] , children: [55, 837]
+57  /JJ/22c/K/ , player 0 , infoset: 5 , actions: ['4', 'c'] , children: [53, 56]
+58  /JJ/22 , player 0 , infoset: 1 , actions: ['c', 'f'] , children: [0, 838]
+59  /JJ/2c/Q/44 , player 0 , infoset: 9 , actions: ['c', 'f'] , children: [839, 840]
+60  /JJ/2c/Q/4 , player 1 , infoset: 7 , actions: ['4', 'c', 'f'] , children: [59, 841, 842]
+61  /JJ/2c/Q/c44 , player 1 , infoset: 9 , actions: ['c', 'f'] , children: [843, 844]
+62  /JJ/2c/Q/c4 , player 0 , infoset: 10 , actions: ['4', 'c', 'f'] , children: [61, 845, 846]
+63  /JJ/2c/Q/c , player 1 , infoset: 8 , actions: ['4', 'c'] , children: [62, 847]
+64  /JJ/2c/Q/ , player 0 , infoset: 8 , actions: ['4', 'c'] , children: [60, 63]
+65  /JJ/2c/K/44 , player 0 , infoset: 12 , actions: ['c', 'f'] , children: [848, 849]
+66  /JJ/2c/K/4 , player 1 , infoset: 10 , actions: ['4', 'c', 'f'] , children: [65, 850, 851]
+67  /JJ/2c/K/c44 , player 1 , infoset: 12 , actions: ['c', 'f'] , children: [852, 853]
+68  /JJ/2c/K/c4 , player 0 , infoset: 13 , actions: ['4', 'c', 'f'] , children: [67, 854, 855]
+69  /JJ/2c/K/c , player 1 , infoset: 11 , actions: ['4', 'c'] , children: [68, 856]
+70  /JJ/2c/K/ , player 0 , infoset: 11 , actions: ['4', 'c'] , children: [66, 69]
+71  /JJ/2 , player 1 , infoset: 0 , actions: ['2', 'c', 'f'] , children: [58, 1, 857]
+72  /JJ/c22c/Q/44 , player 0 , infoset: 16 , actions: ['c', 'f'] , children: [858, 859]
+73  /JJ/c22c/Q/4 , player 1 , infoset: 15 , actions: ['4', 'c', 'f'] , children: [72, 860, 861]
+74  /JJ/c22c/Q/c44 , player 1 , infoset: 17 , actions: ['c', 'f'] , children: [862, 863]
+75  /JJ/c22c/Q/c4 , player 0 , infoset: 17 , actions: ['4', 'c', 'f'] , children: [74, 864, 865]
+76  /JJ/c22c/Q/c , player 1 , infoset: 16 , actions: ['4', 'c'] , children: [75, 866]
+77  /JJ/c22c/Q/ , player 0 , infoset: 15 , actions: ['4', 'c'] , children: [73, 76]
+78  /JJ/c22c/K/44 , player 0 , infoset: 19 , actions: ['c', 'f'] , children: [867, 868]
+79  /JJ/c22c/K/4 , player 1 , infoset: 18 , actions: ['4', 'c', 'f'] , children: [78, 869, 870]
+80  /JJ/c22c/K/c44 , player 1 , infoset: 20 , actions: ['c', 'f'] , children: [871, 872]
+81  /JJ/c22c/K/c4 , player 0 , infoset: 20 , actions: ['4', 'c', 'f'] , children: [80, 873, 874]
+82  /JJ/c22c/K/c , player 1 , infoset: 19 , actions: ['4', 'c'] , children: [81, 875]
+83  /JJ/c22c/K/ , player 0 , infoset: 18 , actions: ['4', 'c'] , children: [79, 82]
+84  /JJ/c22 , player 1 , infoset: 14 , actions: ['c', 'f'] , children: [2, 876]
+85  /JJ/c2c/Q/44 , player 0 , infoset: 22 , actions: ['c', 'f'] , children: [877, 878]
+86  /JJ/c2c/Q/4 , player 1 , infoset: 21 , actions: ['4', 'c', 'f'] , children: [85, 879, 880]
+87  /JJ/c2c/Q/c44 , player 1 , infoset: 23 , actions: ['c', 'f'] , children: [881, 882]
+88  /JJ/c2c/Q/c4 , player 0 , infoset: 23 , actions: ['4', 'c', 'f'] , children: [87, 883, 884]
+89  /JJ/c2c/Q/c , player 1 , infoset: 22 , actions: ['4', 'c'] , children: [88, 885]
+90  /JJ/c2c/Q/ , player 0 , infoset: 21 , actions: ['4', 'c'] , children: [86, 89]
+91  /JJ/c2c/K/44 , player 0 , infoset: 25 , actions: ['c', 'f'] , children: [886, 887]
+92  /JJ/c2c/K/4 , player 1 , infoset: 24 , actions: ['4', 'c', 'f'] , children: [91, 888, 889]
+93  /JJ/c2c/K/c44 , player 1 , infoset: 26 , actions: ['c', 'f'] , children: [890, 891]
+94  /JJ/c2c/K/c4 , player 0 , infoset: 26 , actions: ['4', 'c', 'f'] , children: [93, 892, 893]
+95  /JJ/c2c/K/c , player 1 , infoset: 25 , actions: ['4', 'c'] , children: [94, 894]
+96  /JJ/c2c/K/ , player 0 , infoset: 24 , actions: ['4', 'c'] , children: [92, 95]
+97  /JJ/c2 , player 0 , infoset: 14 , actions: ['2', 'c', 'f'] , children: [84, 3, 895]
+98  /JJ/cc/Q/44 , player 0 , infoset: 28 , actions: ['c', 'f'] , children: [896, 897]
+99  /JJ/cc/Q/4 , player 1 , infoset: 27 , actions: ['4', 'c', 'f'] , children: [98, 898, 899]
+100  /JJ/cc/Q/c44 , player 1 , infoset: 29 , actions: ['c', 'f'] , children: [900, 901]
+101  /JJ/cc/Q/c4 , player 0 , infoset: 29 , actions: ['4', 'c', 'f'] , children: [100, 902, 903]
+102  /JJ/cc/Q/c , player 1 , infoset: 28 , actions: ['4', 'c'] , children: [101, 904]
+103  /JJ/cc/Q/ , player 0 , infoset: 27 , actions: ['4', 'c'] , children: [99, 102]
+104  /JJ/cc/K/44 , player 0 , infoset: 31 , actions: ['c', 'f'] , children: [905, 906]
+105  /JJ/cc/K/4 , player 1 , infoset: 30 , actions: ['4', 'c', 'f'] , children: [104, 907, 908]
+106  /JJ/cc/K/c44 , player 1 , infoset: 32 , actions: ['c', 'f'] , children: [909, 910]
+107  /JJ/cc/K/c4 , player 0 , infoset: 32 , actions: ['4', 'c', 'f'] , children: [106, 911, 912]
+108  /JJ/cc/K/c , player 1 , infoset: 31 , actions: ['4', 'c'] , children: [107, 913]
+109  /JJ/cc/K/ , player 0 , infoset: 30 , actions: ['4', 'c'] , children: [105, 108]
+110  /JJ/c , player 1 , infoset: 13 , actions: ['2', 'c'] , children: [97, 4]
+111  /JJ/ , player 0 , infoset: 0 , actions: ['2', 'c'] , children: [71, 110]
+112  /JQ/22c/J/44 , player 0 , infoset: 34 , actions: ['c', 'f'] , children: [914, 915]
+113  /JQ/22c/J/4 , player 1 , infoset: 34 , actions: ['4', 'c', 'f'] , children: [112, 916, 917]
+114  /JQ/22c/J/c44 , player 1 , infoset: 36 , actions: ['c', 'f'] , children: [918, 919]
+115  /JQ/22c/J/c4 , player 0 , infoset: 35 , actions: ['4', 'c', 'f'] , children: [114, 920, 921]
+116  /JQ/22c/J/c , player 1 , infoset: 35 , actions: ['4', 'c'] , children: [115, 922]
+117  /JQ/22c/J/ , player 0 , infoset: 33 , actions: ['4', 'c'] , children: [113, 116]
+118  /JQ/22c/Q/44 , player 0 , infoset: 3 , actions: ['c', 'f'] , children: [923, 924]
+119  /JQ/22c/Q/4 , player 1 , infoset: 37 , actions: ['4', 'c', 'f'] , children: [118, 925, 926]
+120  /JQ/22c/Q/c44 , player 1 , infoset: 39 , actions: ['c', 'f'] , children: [927, 928]
+121  /JQ/22c/Q/c4 , player 0 , infoset: 4 , actions: ['4', 'c', 'f'] , children: [120, 929, 930]
+122  /JQ/22c/Q/c , player 1 , infoset: 38 , actions: ['4', 'c'] , children: [121, 931]
+123  /JQ/22c/Q/ , player 0 , infoset: 2 , actions: ['4', 'c'] , children: [119, 122]
+124  /JQ/22c/K/44 , player 0 , infoset: 6 , actions: ['c', 'f'] , children: [932, 933]
+125  /JQ/22c/K/4 , player 1 , infoset: 40 , actions: ['4', 'c', 'f'] , children: [124, 934, 935]
+126  /JQ/22c/K/c44 , player 1 , infoset: 42 , actions: ['c', 'f'] , children: [936, 937]
+127  /JQ/22c/K/c4 , player 0 , infoset: 7 , actions: ['4', 'c', 'f'] , children: [126, 938, 939]
+128  /JQ/22c/K/c , player 1 , infoset: 41 , actions: ['4', 'c'] , children: [127, 940]
+129  /JQ/22c/K/ , player 0 , infoset: 5 , actions: ['4', 'c'] , children: [125, 128]
+130  /JQ/22 , player 0 , infoset: 1 , actions: ['c', 'f'] , children: [5, 941]
+131  /JQ/2c/J/44 , player 0 , infoset: 37 , actions: ['c', 'f'] , children: [942, 943]
+132  /JQ/2c/J/4 , player 1 , infoset: 43 , actions: ['4', 'c', 'f'] , children: [131, 944, 945]
+133  /JQ/2c/J/c44 , player 1 , infoset: 45 , actions: ['c', 'f'] , children: [946, 947]
+134  /JQ/2c/J/c4 , player 0 , infoset: 38 , actions: ['4', 'c', 'f'] , children: [133, 948, 949]
+135  /JQ/2c/J/c , player 1 , infoset: 44 , actions: ['4', 'c'] , children: [134, 950]
+136  /JQ/2c/J/ , player 0 , infoset: 36 , actions: ['4', 'c'] , children: [132, 135]
+137  /JQ/2c/Q/44 , player 0 , infoset: 9 , actions: ['c', 'f'] , children: [951, 952]
+138  /JQ/2c/Q/4 , player 1 , infoset: 46 , actions: ['4', 'c', 'f'] , children: [137, 953, 954]
+139  /JQ/2c/Q/c44 , player 1 , infoset: 48 , actions: ['c', 'f'] , children: [955, 956]
+140  /JQ/2c/Q/c4 , player 0 , infoset: 10 , actions: ['4', 'c', 'f'] , children: [139, 957, 958]
+141  /JQ/2c/Q/c , player 1 , infoset: 47 , actions: ['4', 'c'] , children: [140, 959]
+142  /JQ/2c/Q/ , player 0 , infoset: 8 , actions: ['4', 'c'] , children: [138, 141]
+143  /JQ/2c/K/44 , player 0 , infoset: 12 , actions: ['c', 'f'] , children: [960, 961]
+144  /JQ/2c/K/4 , player 1 , infoset: 49 , actions: ['4', 'c', 'f'] , children: [143, 962, 963]
+145  /JQ/2c/K/c44 , player 1 , infoset: 51 , actions: ['c', 'f'] , children: [964, 965]
+146  /JQ/2c/K/c4 , player 0 , infoset: 13 , actions: ['4', 'c', 'f'] , children: [145, 966, 967]
+147  /JQ/2c/K/c , player 1 , infoset: 50 , actions: ['4', 'c'] , children: [146, 968]
+148  /JQ/2c/K/ , player 0 , infoset: 11 , actions: ['4', 'c'] , children: [144, 147]
+149  /JQ/2 , player 1 , infoset: 33 , actions: ['2', 'c', 'f'] , children: [130, 6, 969]
+150  /JQ/c22c/J/44 , player 0 , infoset: 40 , actions: ['c', 'f'] , children: [970, 971]
+151  /JQ/c22c/J/4 , player 1 , infoset: 54 , actions: ['4', 'c', 'f'] , children: [150, 972, 973]
+152  /JQ/c22c/J/c44 , player 1 , infoset: 56 , actions: ['c', 'f'] , children: [974, 975]
+153  /JQ/c22c/J/c4 , player 0 , infoset: 41 , actions: ['4', 'c', 'f'] , children: [152, 976, 977]
+154  /JQ/c22c/J/c , player 1 , infoset: 55 , actions: ['4', 'c'] , children: [153, 978]
+155  /JQ/c22c/J/ , player 0 , infoset: 39 , actions: ['4', 'c'] , children: [151, 154]
+156  /JQ/c22c/Q/44 , player 0 , infoset: 16 , actions: ['c', 'f'] , children: [979, 980]
+157  /JQ/c22c/Q/4 , player 1 , infoset: 57 , actions: ['4', 'c', 'f'] , children: [156, 981, 982]
+158  /JQ/c22c/Q/c44 , player 1 , infoset: 59 , actions: ['c', 'f'] , children: [983, 984]
+159  /JQ/c22c/Q/c4 , player 0 , infoset: 17 , actions: ['4', 'c', 'f'] , children: [158, 985, 986]
+160  /JQ/c22c/Q/c , player 1 , infoset: 58 , actions: ['4', 'c'] , children: [159, 987]
+161  /JQ/c22c/Q/ , player 0 , infoset: 15 , actions: ['4', 'c'] , children: [157, 160]
+162  /JQ/c22c/K/44 , player 0 , infoset: 19 , actions: ['c', 'f'] , children: [988, 989]
+163  /JQ/c22c/K/4 , player 1 , infoset: 60 , actions: ['4', 'c', 'f'] , children: [162, 990, 991]
+164  /JQ/c22c/K/c44 , player 1 , infoset: 62 , actions: ['c', 'f'] , children: [992, 993]
+165  /JQ/c22c/K/c4 , player 0 , infoset: 20 , actions: ['4', 'c', 'f'] , children: [164, 994, 995]
+166  /JQ/c22c/K/c , player 1 , infoset: 61 , actions: ['4', 'c'] , children: [165, 996]
+167  /JQ/c22c/K/ , player 0 , infoset: 18 , actions: ['4', 'c'] , children: [163, 166]
+168  /JQ/c22 , player 1 , infoset: 53 , actions: ['c', 'f'] , children: [7, 997]
+169  /JQ/c2c/J/44 , player 0 , infoset: 43 , actions: ['c', 'f'] , children: [998, 999]
+170  /JQ/c2c/J/4 , player 1 , infoset: 63 , actions: ['4', 'c', 'f'] , children: [169, 1000, 1001]
+171  /JQ/c2c/J/c44 , player 1 , infoset: 65 , actions: ['c', 'f'] , children: [1002, 1003]
+172  /JQ/c2c/J/c4 , player 0 , infoset: 44 , actions: ['4', 'c', 'f'] , children: [171, 1004, 1005]
+173  /JQ/c2c/J/c , player 1 , infoset: 64 , actions: ['4', 'c'] , children: [172, 1006]
+174  /JQ/c2c/J/ , player 0 , infoset: 42 , actions: ['4', 'c'] , children: [170, 173]
+175  /JQ/c2c/Q/44 , player 0 , infoset: 22 , actions: ['c', 'f'] , children: [1007, 1008]
+176  /JQ/c2c/Q/4 , player 1 , infoset: 66 , actions: ['4', 'c', 'f'] , children: [175, 1009, 1010]
+177  /JQ/c2c/Q/c44 , player 1 , infoset: 68 , actions: ['c', 'f'] , children: [1011, 1012]
+178  /JQ/c2c/Q/c4 , player 0 , infoset: 23 , actions: ['4', 'c', 'f'] , children: [177, 1013, 1014]
+179  /JQ/c2c/Q/c , player 1 , infoset: 67 , actions: ['4', 'c'] , children: [178, 1015]
+180  /JQ/c2c/Q/ , player 0 , infoset: 21 , actions: ['4', 'c'] , children: [176, 179]
+181  /JQ/c2c/K/44 , player 0 , infoset: 25 , actions: ['c', 'f'] , children: [1016, 1017]
+182  /JQ/c2c/K/4 , player 1 , infoset: 69 , actions: ['4', 'c', 'f'] , children: [181, 1018, 1019]
+183  /JQ/c2c/K/c44 , player 1 , infoset: 71 , actions: ['c', 'f'] , children: [1020, 1021]
+184  /JQ/c2c/K/c4 , player 0 , infoset: 26 , actions: ['4', 'c', 'f'] , children: [183, 1022, 1023]
+185  /JQ/c2c/K/c , player 1 , infoset: 70 , actions: ['4', 'c'] , children: [184, 1024]
+186  /JQ/c2c/K/ , player 0 , infoset: 24 , actions: ['4', 'c'] , children: [182, 185]
+187  /JQ/c2 , player 0 , infoset: 14 , actions: ['2', 'c', 'f'] , children: [168, 8, 1025]
+188  /JQ/cc/J/44 , player 0 , infoset: 46 , actions: ['c', 'f'] , children: [1026, 1027]
+189  /JQ/cc/J/4 , player 1 , infoset: 72 , actions: ['4', 'c', 'f'] , children: [188, 1028, 1029]
+190  /JQ/cc/J/c44 , player 1 , infoset: 74 , actions: ['c', 'f'] , children: [1030, 1031]
+191  /JQ/cc/J/c4 , player 0 , infoset: 47 , actions: ['4', 'c', 'f'] , children: [190, 1032, 1033]
+192  /JQ/cc/J/c , player 1 , infoset: 73 , actions: ['4', 'c'] , children: [191, 1034]
+193  /JQ/cc/J/ , player 0 , infoset: 45 , actions: ['4', 'c'] , children: [189, 192]
+194  /JQ/cc/Q/44 , player 0 , infoset: 28 , actions: ['c', 'f'] , children: [1035, 1036]
+195  /JQ/cc/Q/4 , player 1 , infoset: 75 , actions: ['4', 'c', 'f'] , children: [194, 1037, 1038]
+196  /JQ/cc/Q/c44 , player 1 , infoset: 77 , actions: ['c', 'f'] , children: [1039, 1040]
+197  /JQ/cc/Q/c4 , player 0 , infoset: 29 , actions: ['4', 'c', 'f'] , children: [196, 1041, 1042]
+198  /JQ/cc/Q/c , player 1 , infoset: 76 , actions: ['4', 'c'] , children: [197, 1043]
+199  /JQ/cc/Q/ , player 0 , infoset: 27 , actions: ['4', 'c'] , children: [195, 198]
+200  /JQ/cc/K/44 , player 0 , infoset: 31 , actions: ['c', 'f'] , children: [1044, 1045]
+201  /JQ/cc/K/4 , player 1 , infoset: 78 , actions: ['4', 'c', 'f'] , children: [200, 1046, 1047]
+202  /JQ/cc/K/c44 , player 1 , infoset: 80 , actions: ['c', 'f'] , children: [1048, 1049]
+203  /JQ/cc/K/c4 , player 0 , infoset: 32 , actions: ['4', 'c', 'f'] , children: [202, 1050, 1051]
+204  /JQ/cc/K/c , player 1 , infoset: 79 , actions: ['4', 'c'] , children: [203, 1052]
+205  /JQ/cc/K/ , player 0 , infoset: 30 , actions: ['4', 'c'] , children: [201, 204]
+206  /JQ/c , player 1 , infoset: 52 , actions: ['2', 'c'] , children: [187, 9]
+207  /JQ/ , player 0 , infoset: 0 , actions: ['2', 'c'] , children: [149, 206]
+208  /JK/22c/J/44 , player 0 , infoset: 34 , actions: ['c', 'f'] , children: [1053, 1054]
+209  /JK/22c/J/4 , player 1 , infoset: 82 , actions: ['4', 'c', 'f'] , children: [208, 1055, 1056]
+210  /JK/22c/J/c44 , player 1 , infoset: 84 , actions: ['c', 'f'] , children: [1057, 1058]
+211  /JK/22c/J/c4 , player 0 , infoset: 35 , actions: ['4', 'c', 'f'] , children: [210, 1059, 1060]
+212  /JK/22c/J/c , player 1 , infoset: 83 , actions: ['4', 'c'] , children: [211, 1061]
+213  /JK/22c/J/ , player 0 , infoset: 33 , actions: ['4', 'c'] , children: [209, 212]
+214  /JK/22c/Q/44 , player 0 , infoset: 3 , actions: ['c', 'f'] , children: [1062, 1063]
+215  /JK/22c/Q/4 , player 1 , infoset: 85 , actions: ['4', 'c', 'f'] , children: [214, 1064, 1065]
+216  /JK/22c/Q/c44 , player 1 , infoset: 87 , actions: ['c', 'f'] , children: [1066, 1067]
+217  /JK/22c/Q/c4 , player 0 , infoset: 4 , actions: ['4', 'c', 'f'] , children: [216, 1068, 1069]
+218  /JK/22c/Q/c , player 1 , infoset: 86 , actions: ['4', 'c'] , children: [217, 1070]
+219  /JK/22c/Q/ , player 0 , infoset: 2 , actions: ['4', 'c'] , children: [215, 218]
+220  /JK/22c/K/44 , player 0 , infoset: 6 , actions: ['c', 'f'] , children: [1071, 1072]
+221  /JK/22c/K/4 , player 1 , infoset: 88 , actions: ['4', 'c', 'f'] , children: [220, 1073, 1074]
+222  /JK/22c/K/c44 , player 1 , infoset: 90 , actions: ['c', 'f'] , children: [1075, 1076]
+223  /JK/22c/K/c4 , player 0 , infoset: 7 , actions: ['4', 'c', 'f'] , children: [222, 1077, 1078]
+224  /JK/22c/K/c , player 1 , infoset: 89 , actions: ['4', 'c'] , children: [223, 1079]
+225  /JK/22c/K/ , player 0 , infoset: 5 , actions: ['4', 'c'] , children: [221, 224]
+226  /JK/22 , player 0 , infoset: 1 , actions: ['c', 'f'] , children: [10, 1080]
+227  /JK/2c/J/44 , player 0 , infoset: 37 , actions: ['c', 'f'] , children: [1081, 1082]
+228  /JK/2c/J/4 , player 1 , infoset: 91 , actions: ['4', 'c', 'f'] , children: [227, 1083, 1084]
+229  /JK/2c/J/c44 , player 1 , infoset: 93 , actions: ['c', 'f'] , children: [1085, 1086]
+230  /JK/2c/J/c4 , player 0 , infoset: 38 , actions: ['4', 'c', 'f'] , children: [229, 1087, 1088]
+231  /JK/2c/J/c , player 1 , infoset: 92 , actions: ['4', 'c'] , children: [230, 1089]
+232  /JK/2c/J/ , player 0 , infoset: 36 , actions: ['4', 'c'] , children: [228, 231]
+233  /JK/2c/Q/44 , player 0 , infoset: 9 , actions: ['c', 'f'] , children: [1090, 1091]
+234  /JK/2c/Q/4 , player 1 , infoset: 94 , actions: ['4', 'c', 'f'] , children: [233, 1092, 1093]
+235  /JK/2c/Q/c44 , player 1 , infoset: 96 , actions: ['c', 'f'] , children: [1094, 1095]
+236  /JK/2c/Q/c4 , player 0 , infoset: 10 , actions: ['4', 'c', 'f'] , children: [235, 1096, 1097]
+237  /JK/2c/Q/c , player 1 , infoset: 95 , actions: ['4', 'c'] , children: [236, 1098]
+238  /JK/2c/Q/ , player 0 , infoset: 8 , actions: ['4', 'c'] , children: [234, 237]
+239  /JK/2c/K/44 , player 0 , infoset: 12 , actions: ['c', 'f'] , children: [1099, 1100]
+240  /JK/2c/K/4 , player 1 , infoset: 97 , actions: ['4', 'c', 'f'] , children: [239, 1101, 1102]
+241  /JK/2c/K/c44 , player 1 , infoset: 99 , actions: ['c', 'f'] , children: [1103, 1104]
+242  /JK/2c/K/c4 , player 0 , infoset: 13 , actions: ['4', 'c', 'f'] , children: [241, 1105, 1106]
+243  /JK/2c/K/c , player 1 , infoset: 98 , actions: ['4', 'c'] , children: [242, 1107]
+244  /JK/2c/K/ , player 0 , infoset: 11 , actions: ['4', 'c'] , children: [240, 243]
+245  /JK/2 , player 1 , infoset: 81 , actions: ['2', 'c', 'f'] , children: [226, 11, 1108]
+246  /JK/c22c/J/44 , player 0 , infoset: 40 , actions: ['c', 'f'] , children: [1109, 1110]
+247  /JK/c22c/J/4 , player 1 , infoset: 102 , actions: ['4', 'c', 'f'] , children: [246, 1111, 1112]
+248  /JK/c22c/J/c44 , player 1 , infoset: 104 , actions: ['c', 'f'] , children: [1113, 1114]
+249  /JK/c22c/J/c4 , player 0 , infoset: 41 , actions: ['4', 'c', 'f'] , children: [248, 1115, 1116]
+250  /JK/c22c/J/c , player 1 , infoset: 103 , actions: ['4', 'c'] , children: [249, 1117]
+251  /JK/c22c/J/ , player 0 , infoset: 39 , actions: ['4', 'c'] , children: [247, 250]
+252  /JK/c22c/Q/44 , player 0 , infoset: 16 , actions: ['c', 'f'] , children: [1118, 1119]
+253  /JK/c22c/Q/4 , player 1 , infoset: 105 , actions: ['4', 'c', 'f'] , children: [252, 1120, 1121]
+254  /JK/c22c/Q/c44 , player 1 , infoset: 107 , actions: ['c', 'f'] , children: [1122, 1123]
+255  /JK/c22c/Q/c4 , player 0 , infoset: 17 , actions: ['4', 'c', 'f'] , children: [254, 1124, 1125]
+256  /JK/c22c/Q/c , player 1 , infoset: 106 , actions: ['4', 'c'] , children: [255, 1126]
+257  /JK/c22c/Q/ , player 0 , infoset: 15 , actions: ['4', 'c'] , children: [253, 256]
+258  /JK/c22c/K/44 , player 0 , infoset: 19 , actions: ['c', 'f'] , children: [1127, 1128]
+259  /JK/c22c/K/4 , player 1 , infoset: 108 , actions: ['4', 'c', 'f'] , children: [258, 1129, 1130]
+260  /JK/c22c/K/c44 , player 1 , infoset: 110 , actions: ['c', 'f'] , children: [1131, 1132]
+261  /JK/c22c/K/c4 , player 0 , infoset: 20 , actions: ['4', 'c', 'f'] , children: [260, 1133, 1134]
+262  /JK/c22c/K/c , player 1 , infoset: 109 , actions: ['4', 'c'] , children: [261, 1135]
+263  /JK/c22c/K/ , player 0 , infoset: 18 , actions: ['4', 'c'] , children: [259, 262]
+264  /JK/c22 , player 1 , infoset: 101 , actions: ['c', 'f'] , children: [12, 1136]
+265  /JK/c2c/J/44 , player 0 , infoset: 43 , actions: ['c', 'f'] , children: [1137, 1138]
+266  /JK/c2c/J/4 , player 1 , infoset: 111 , actions: ['4', 'c', 'f'] , children: [265, 1139, 1140]
+267  /JK/c2c/J/c44 , player 1 , infoset: 113 , actions: ['c', 'f'] , children: [1141, 1142]
+268  /JK/c2c/J/c4 , player 0 , infoset: 44 , actions: ['4', 'c', 'f'] , children: [267, 1143, 1144]
+269  /JK/c2c/J/c , player 1 , infoset: 112 , actions: ['4', 'c'] , children: [268, 1145]
+270  /JK/c2c/J/ , player 0 , infoset: 42 , actions: ['4', 'c'] , children: [266, 269]
+271  /JK/c2c/Q/44 , player 0 , infoset: 22 , actions: ['c', 'f'] , children: [1146, 1147]
+272  /JK/c2c/Q/4 , player 1 , infoset: 114 , actions: ['4', 'c', 'f'] , children: [271, 1148, 1149]
+273  /JK/c2c/Q/c44 , player 1 , infoset: 116 , actions: ['c', 'f'] , children: [1150, 1151]
+274  /JK/c2c/Q/c4 , player 0 , infoset: 23 , actions: ['4', 'c', 'f'] , children: [273, 1152, 1153]
+275  /JK/c2c/Q/c , player 1 , infoset: 115 , actions: ['4', 'c'] , children: [274, 1154]
+276  /JK/c2c/Q/ , player 0 , infoset: 21 , actions: ['4', 'c'] , children: [272, 275]
+277  /JK/c2c/K/44 , player 0 , infoset: 25 , actions: ['c', 'f'] , children: [1155, 1156]
+278  /JK/c2c/K/4 , player 1 , infoset: 117 , actions: ['4', 'c', 'f'] , children: [277, 1157, 1158]
+279  /JK/c2c/K/c44 , player 1 , infoset: 119 , actions: ['c', 'f'] , children: [1159, 1160]
+280  /JK/c2c/K/c4 , player 0 , infoset: 26 , actions: ['4', 'c', 'f'] , children: [279, 1161, 1162]
+281  /JK/c2c/K/c , player 1 , infoset: 118 , actions: ['4', 'c'] , children: [280, 1163]
+282  /JK/c2c/K/ , player 0 , infoset: 24 , actions: ['4', 'c'] , children: [278, 281]
+283  /JK/c2 , player 0 , infoset: 14 , actions: ['2', 'c', 'f'] , children: [264, 13, 1164]
+284  /JK/cc/J/44 , player 0 , infoset: 46 , actions: ['c', 'f'] , children: [1165, 1166]
+285  /JK/cc/J/4 , player 1 , infoset: 120 , actions: ['4', 'c', 'f'] , children: [284, 1167, 1168]
+286  /JK/cc/J/c44 , player 1 , infoset: 122 , actions: ['c', 'f'] , children: [1169, 1170]
+287  /JK/cc/J/c4 , player 0 , infoset: 47 , actions: ['4', 'c', 'f'] , children: [286, 1171, 1172]
+288  /JK/cc/J/c , player 1 , infoset: 121 , actions: ['4', 'c'] , children: [287, 1173]
+289  /JK/cc/J/ , player 0 , infoset: 45 , actions: ['4', 'c'] , children: [285, 288]
+290  /JK/cc/Q/44 , player 0 , infoset: 28 , actions: ['c', 'f'] , children: [1174, 1175]
+291  /JK/cc/Q/4 , player 1 , infoset: 123 , actions: ['4', 'c', 'f'] , children: [290, 1176, 1177]
+292  /JK/cc/Q/c44 , player 1 , infoset: 125 , actions: ['c', 'f'] , children: [1178, 1179]
+293  /JK/cc/Q/c4 , player 0 , infoset: 29 , actions: ['4', 'c', 'f'] , children: [292, 1180, 1181]
+294  /JK/cc/Q/c , player 1 , infoset: 124 , actions: ['4', 'c'] , children: [293, 1182]
+295  /JK/cc/Q/ , player 0 , infoset: 27 , actions: ['4', 'c'] , children: [291, 294]
+296  /JK/cc/K/44 , player 0 , infoset: 31 , actions: ['c', 'f'] , children: [1183, 1184]
+297  /JK/cc/K/4 , player 1 , infoset: 126 , actions: ['4', 'c', 'f'] , children: [296, 1185, 1186]
+298  /JK/cc/K/c44 , player 1 , infoset: 128 , actions: ['c', 'f'] , children: [1187, 1188]
+299  /JK/cc/K/c4 , player 0 , infoset: 32 , actions: ['4', 'c', 'f'] , children: [298, 1189, 1190]
+300  /JK/cc/K/c , player 1 , infoset: 127 , actions: ['4', 'c'] , children: [299, 1191]
+301  /JK/cc/K/ , player 0 , infoset: 30 , actions: ['4', 'c'] , children: [297, 300]
+302  /JK/c , player 1 , infoset: 100 , actions: ['2', 'c'] , children: [283, 14]
+303  /JK/ , player 0 , infoset: 0 , actions: ['2', 'c'] , children: [245, 302]
+304  /QJ/22c/J/44 , player 0 , infoset: 51 , actions: ['c', 'f'] , children: [1192, 1193]
+305  /QJ/22c/J/4 , player 1 , infoset: 129 , actions: ['4', 'c', 'f'] , children: [304, 1194, 1195]
+306  /QJ/22c/J/c44 , player 1 , infoset: 131 , actions: ['c', 'f'] , children: [1196, 1197]
+307  /QJ/22c/J/c4 , player 0 , infoset: 52 , actions: ['4', 'c', 'f'] , children: [306, 1198, 1199]
+308  /QJ/22c/J/c , player 1 , infoset: 130 , actions: ['4', 'c'] , children: [307, 1200]
+309  /QJ/22c/J/ , player 0 , infoset: 50 , actions: ['4', 'c'] , children: [305, 308]
+310  /QJ/22c/Q/44 , player 0 , infoset: 54 , actions: ['c', 'f'] , children: [1201, 1202]
+311  /QJ/22c/Q/4 , player 1 , infoset: 1 , actions: ['4', 'c', 'f'] , children: [310, 1203, 1204]
+312  /QJ/22c/Q/c44 , player 1 , infoset: 3 , actions: ['c', 'f'] , children: [1205, 1206]
+313  /QJ/22c/Q/c4 , player 0 , infoset: 55 , actions: ['4', 'c', 'f'] , children: [312, 1207, 1208]
+314  /QJ/22c/Q/c , player 1 , infoset: 2 , actions: ['4', 'c'] , children: [313, 1209]
+315  /QJ/22c/Q/ , player 0 , infoset: 53 , actions: ['4', 'c'] , children: [311, 314]
+316  /QJ/22c/K/44 , player 0 , infoset: 57 , actions: ['c', 'f'] , children: [1210, 1211]
+317  /QJ/22c/K/4 , player 1 , infoset: 4 , actions: ['4', 'c', 'f'] , children: [316, 1212, 1213]
+318  /QJ/22c/K/c44 , player 1 , infoset: 6 , actions: ['c', 'f'] , children: [1214, 1215]
+319  /QJ/22c/K/c4 , player 0 , infoset: 58 , actions: ['4', 'c', 'f'] , children: [318, 1216, 1217]
+320  /QJ/22c/K/c , player 1 , infoset: 5 , actions: ['4', 'c'] , children: [319, 1218]
+321  /QJ/22c/K/ , player 0 , infoset: 56 , actions: ['4', 'c'] , children: [317, 320]
+322  /QJ/22 , player 0 , infoset: 49 , actions: ['c', 'f'] , children: [15, 1219]
+323  /QJ/2c/J/44 , player 0 , infoset: 60 , actions: ['c', 'f'] , children: [1220, 1221]
+324  /QJ/2c/J/4 , player 1 , infoset: 132 , actions: ['4', 'c', 'f'] , children: [323, 1222, 1223]
+325  /QJ/2c/J/c44 , player 1 , infoset: 134 , actions: ['c', 'f'] , children: [1224, 1225]
+326  /QJ/2c/J/c4 , player 0 , infoset: 61 , actions: ['4', 'c', 'f'] , children: [325, 1226, 1227]
+327  /QJ/2c/J/c , player 1 , infoset: 133 , actions: ['4', 'c'] , children: [326, 1228]
+328  /QJ/2c/J/ , player 0 , infoset: 59 , actions: ['4', 'c'] , children: [324, 327]
+329  /QJ/2c/Q/44 , player 0 , infoset: 63 , actions: ['c', 'f'] , children: [1229, 1230]
+330  /QJ/2c/Q/4 , player 1 , infoset: 7 , actions: ['4', 'c', 'f'] , children: [329, 1231, 1232]
+331  /QJ/2c/Q/c44 , player 1 , infoset: 9 , actions: ['c', 'f'] , children: [1233, 1234]
+332  /QJ/2c/Q/c4 , player 0 , infoset: 64 , actions: ['4', 'c', 'f'] , children: [331, 1235, 1236]
+333  /QJ/2c/Q/c , player 1 , infoset: 8 , actions: ['4', 'c'] , children: [332, 1237]
+334  /QJ/2c/Q/ , player 0 , infoset: 62 , actions: ['4', 'c'] , children: [330, 333]
+335  /QJ/2c/K/44 , player 0 , infoset: 66 , actions: ['c', 'f'] , children: [1238, 1239]
+336  /QJ/2c/K/4 , player 1 , infoset: 10 , actions: ['4', 'c', 'f'] , children: [335, 1240, 1241]
+337  /QJ/2c/K/c44 , player 1 , infoset: 12 , actions: ['c', 'f'] , children: [1242, 1243]
+338  /QJ/2c/K/c4 , player 0 , infoset: 67 , actions: ['4', 'c', 'f'] , children: [337, 1244, 1245]
+339  /QJ/2c/K/c , player 1 , infoset: 11 , actions: ['4', 'c'] , children: [338, 1246]
+340  /QJ/2c/K/ , player 0 , infoset: 65 , actions: ['4', 'c'] , children: [336, 339]
+341  /QJ/2 , player 1 , infoset: 0 , actions: ['2', 'c', 'f'] , children: [322, 16, 1247]
+342  /QJ/c22c/J/44 , player 0 , infoset: 70 , actions: ['c', 'f'] , children: [1248, 1249]
+343  /QJ/c22c/J/4 , player 1 , infoset: 135 , actions: ['4', 'c', 'f'] , children: [342, 1250, 1251]
+344  /QJ/c22c/J/c44 , player 1 , infoset: 137 , actions: ['c', 'f'] , children: [1252, 1253]
+345  /QJ/c22c/J/c4 , player 0 , infoset: 71 , actions: ['4', 'c', 'f'] , children: [344, 1254, 1255]
+346  /QJ/c22c/J/c , player 1 , infoset: 136 , actions: ['4', 'c'] , children: [345, 1256]
+347  /QJ/c22c/J/ , player 0 , infoset: 69 , actions: ['4', 'c'] , children: [343, 346]
+348  /QJ/c22c/Q/44 , player 0 , infoset: 73 , actions: ['c', 'f'] , children: [1257, 1258]
+349  /QJ/c22c/Q/4 , player 1 , infoset: 15 , actions: ['4', 'c', 'f'] , children: [348, 1259, 1260]
+350  /QJ/c22c/Q/c44 , player 1 , infoset: 17 , actions: ['c', 'f'] , children: [1261, 1262]
+351  /QJ/c22c/Q/c4 , player 0 , infoset: 74 , actions: ['4', 'c', 'f'] , children: [350, 1263, 1264]
+352  /QJ/c22c/Q/c , player 1 , infoset: 16 , actions: ['4', 'c'] , children: [351, 1265]
+353  /QJ/c22c/Q/ , player 0 , infoset: 72 , actions: ['4', 'c'] , children: [349, 352]
+354  /QJ/c22c/K/44 , player 0 , infoset: 76 , actions: ['c', 'f'] , children: [1266, 1267]
+355  /QJ/c22c/K/4 , player 1 , infoset: 18 , actions: ['4', 'c', 'f'] , children: [354, 1268, 1269]
+356  /QJ/c22c/K/c44 , player 1 , infoset: 20 , actions: ['c', 'f'] , children: [1270, 1271]
+357  /QJ/c22c/K/c4 , player 0 , infoset: 77 , actions: ['4', 'c', 'f'] , children: [356, 1272, 1273]
+358  /QJ/c22c/K/c , player 1 , infoset: 19 , actions: ['4', 'c'] , children: [357, 1274]
+359  /QJ/c22c/K/ , player 0 , infoset: 75 , actions: ['4', 'c'] , children: [355, 358]
+360  /QJ/c22 , player 1 , infoset: 14 , actions: ['c', 'f'] , children: [17, 1275]
+361  /QJ/c2c/J/44 , player 0 , infoset: 79 , actions: ['c', 'f'] , children: [1276, 1277]
+362  /QJ/c2c/J/4 , player 1 , infoset: 138 , actions: ['4', 'c', 'f'] , children: [361, 1278, 1279]
+363  /QJ/c2c/J/c44 , player 1 , infoset: 140 , actions: ['c', 'f'] , children: [1280, 1281]
+364  /QJ/c2c/J/c4 , player 0 , infoset: 80 , actions: ['4', 'c', 'f'] , children: [363, 1282, 1283]
+365  /QJ/c2c/J/c , player 1 , infoset: 139 , actions: ['4', 'c'] , children: [364, 1284]
+366  /QJ/c2c/J/ , player 0 , infoset: 78 , actions: ['4', 'c'] , children: [362, 365]
+367  /QJ/c2c/Q/44 , player 0 , infoset: 82 , actions: ['c', 'f'] , children: [1285, 1286]
+368  /QJ/c2c/Q/4 , player 1 , infoset: 21 , actions: ['4', 'c', 'f'] , children: [367, 1287, 1288]
+369  /QJ/c2c/Q/c44 , player 1 , infoset: 23 , actions: ['c', 'f'] , children: [1289, 1290]
+370  /QJ/c2c/Q/c4 , player 0 , infoset: 83 , actions: ['4', 'c', 'f'] , children: [369, 1291, 1292]
+371  /QJ/c2c/Q/c , player 1 , infoset: 22 , actions: ['4', 'c'] , children: [370, 1293]
+372  /QJ/c2c/Q/ , player 0 , infoset: 81 , actions: ['4', 'c'] , children: [368, 371]
+373  /QJ/c2c/K/44 , player 0 , infoset: 85 , actions: ['c', 'f'] , children: [1294, 1295]
+374  /QJ/c2c/K/4 , player 1 , infoset: 24 , actions: ['4', 'c', 'f'] , children: [373, 1296, 1297]
+375  /QJ/c2c/K/c44 , player 1 , infoset: 26 , actions: ['c', 'f'] , children: [1298, 1299]
+376  /QJ/c2c/K/c4 , player 0 , infoset: 86 , actions: ['4', 'c', 'f'] , children: [375, 1300, 1301]
+377  /QJ/c2c/K/c , player 1 , infoset: 25 , actions: ['4', 'c'] , children: [376, 1302]
+378  /QJ/c2c/K/ , player 0 , infoset: 84 , actions: ['4', 'c'] , children: [374, 377]
+379  /QJ/c2 , player 0 , infoset: 68 , actions: ['2', 'c', 'f'] , children: [360, 18, 1303]
+380  /QJ/cc/J/44 , player 0 , infoset: 88 , actions: ['c', 'f'] , children: [1304, 1305]
+381  /QJ/cc/J/4 , player 1 , infoset: 141 , actions: ['4', 'c', 'f'] , children: [380, 1306, 1307]
+382  /QJ/cc/J/c44 , player 1 , infoset: 143 , actions: ['c', 'f'] , children: [1308, 1309]
+383  /QJ/cc/J/c4 , player 0 , infoset: 89 , actions: ['4', 'c', 'f'] , children: [382, 1310, 1311]
+384  /QJ/cc/J/c , player 1 , infoset: 142 , actions: ['4', 'c'] , children: [383, 1312]
+385  /QJ/cc/J/ , player 0 , infoset: 87 , actions: ['4', 'c'] , children: [381, 384]
+386  /QJ/cc/Q/44 , player 0 , infoset: 91 , actions: ['c', 'f'] , children: [1313, 1314]
+387  /QJ/cc/Q/4 , player 1 , infoset: 27 , actions: ['4', 'c', 'f'] , children: [386, 1315, 1316]
+388  /QJ/cc/Q/c44 , player 1 , infoset: 29 , actions: ['c', 'f'] , children: [1317, 1318]
+389  /QJ/cc/Q/c4 , player 0 , infoset: 92 , actions: ['4', 'c', 'f'] , children: [388, 1319, 1320]
+390  /QJ/cc/Q/c , player 1 , infoset: 28 , actions: ['4', 'c'] , children: [389, 1321]
+391  /QJ/cc/Q/ , player 0 , infoset: 90 , actions: ['4', 'c'] , children: [387, 390]
+392  /QJ/cc/K/44 , player 0 , infoset: 94 , actions: ['c', 'f'] , children: [1322, 1323]
+393  /QJ/cc/K/4 , player 1 , infoset: 30 , actions: ['4', 'c', 'f'] , children: [392, 1324, 1325]
+394  /QJ/cc/K/c44 , player 1 , infoset: 32 , actions: ['c', 'f'] , children: [1326, 1327]
+395  /QJ/cc/K/c4 , player 0 , infoset: 95 , actions: ['4', 'c', 'f'] , children: [394, 1328, 1329]
+396  /QJ/cc/K/c , player 1 , infoset: 31 , actions: ['4', 'c'] , children: [395, 1330]
+397  /QJ/cc/K/ , player 0 , infoset: 93 , actions: ['4', 'c'] , children: [393, 396]
+398  /QJ/c , player 1 , infoset: 13 , actions: ['2', 'c'] , children: [379, 19]
+399  /QJ/ , player 0 , infoset: 48 , actions: ['2', 'c'] , children: [341, 398]
+400  /QQ/22c/J/44 , player 0 , infoset: 51 , actions: ['c', 'f'] , children: [1331, 1332]
+401  /QQ/22c/J/4 , player 1 , infoset: 34 , actions: ['4', 'c', 'f'] , children: [400, 1333, 1334]
+402  /QQ/22c/J/c44 , player 1 , infoset: 36 , actions: ['c', 'f'] , children: [1335, 1336]
+403  /QQ/22c/J/c4 , player 0 , infoset: 52 , actions: ['4', 'c', 'f'] , children: [402, 1337, 1338]
+404  /QQ/22c/J/c , player 1 , infoset: 35 , actions: ['4', 'c'] , children: [403, 1339]
+405  /QQ/22c/J/ , player 0 , infoset: 50 , actions: ['4', 'c'] , children: [401, 404]
+406  /QQ/22c/K/44 , player 0 , infoset: 57 , actions: ['c', 'f'] , children: [1340, 1341]
+407  /QQ/22c/K/4 , player 1 , infoset: 40 , actions: ['4', 'c', 'f'] , children: [406, 1342, 1343]
+408  /QQ/22c/K/c44 , player 1 , infoset: 42 , actions: ['c', 'f'] , children: [1344, 1345]
+409  /QQ/22c/K/c4 , player 0 , infoset: 58 , actions: ['4', 'c', 'f'] , children: [408, 1346, 1347]
+410  /QQ/22c/K/c , player 1 , infoset: 41 , actions: ['4', 'c'] , children: [409, 1348]
+411  /QQ/22c/K/ , player 0 , infoset: 56 , actions: ['4', 'c'] , children: [407, 410]
+412  /QQ/22 , player 0 , infoset: 49 , actions: ['c', 'f'] , children: [20, 1349]
+413  /QQ/2c/J/44 , player 0 , infoset: 60 , actions: ['c', 'f'] , children: [1350, 1351]
+414  /QQ/2c/J/4 , player 1 , infoset: 43 , actions: ['4', 'c', 'f'] , children: [413, 1352, 1353]
+415  /QQ/2c/J/c44 , player 1 , infoset: 45 , actions: ['c', 'f'] , children: [1354, 1355]
+416  /QQ/2c/J/c4 , player 0 , infoset: 61 , actions: ['4', 'c', 'f'] , children: [415, 1356, 1357]
+417  /QQ/2c/J/c , player 1 , infoset: 44 , actions: ['4', 'c'] , children: [416, 1358]
+418  /QQ/2c/J/ , player 0 , infoset: 59 , actions: ['4', 'c'] , children: [414, 417]
+419  /QQ/2c/K/44 , player 0 , infoset: 66 , actions: ['c', 'f'] , children: [1359, 1360]
+420  /QQ/2c/K/4 , player 1 , infoset: 49 , actions: ['4', 'c', 'f'] , children: [419, 1361, 1362]
+421  /QQ/2c/K/c44 , player 1 , infoset: 51 , actions: ['c', 'f'] , children: [1363, 1364]
+422  /QQ/2c/K/c4 , player 0 , infoset: 67 , actions: ['4', 'c', 'f'] , children: [421, 1365, 1366]
+423  /QQ/2c/K/c , player 1 , infoset: 50 , actions: ['4', 'c'] , children: [422, 1367]
+424  /QQ/2c/K/ , player 0 , infoset: 65 , actions: ['4', 'c'] , children: [420, 423]
+425  /QQ/2 , player 1 , infoset: 33 , actions: ['2', 'c', 'f'] , children: [412, 21, 1368]
+426  /QQ/c22c/J/44 , player 0 , infoset: 70 , actions: ['c', 'f'] , children: [1369, 1370]
+427  /QQ/c22c/J/4 , player 1 , infoset: 54 , actions: ['4', 'c', 'f'] , children: [426, 1371, 1372]
+428  /QQ/c22c/J/c44 , player 1 , infoset: 56 , actions: ['c', 'f'] , children: [1373, 1374]
+429  /QQ/c22c/J/c4 , player 0 , infoset: 71 , actions: ['4', 'c', 'f'] , children: [428, 1375, 1376]
+430  /QQ/c22c/J/c , player 1 , infoset: 55 , actions: ['4', 'c'] , children: [429, 1377]
+431  /QQ/c22c/J/ , player 0 , infoset: 69 , actions: ['4', 'c'] , children: [427, 430]
+432  /QQ/c22c/K/44 , player 0 , infoset: 76 , actions: ['c', 'f'] , children: [1378, 1379]
+433  /QQ/c22c/K/4 , player 1 , infoset: 60 , actions: ['4', 'c', 'f'] , children: [432, 1380, 1381]
+434  /QQ/c22c/K/c44 , player 1 , infoset: 62 , actions: ['c', 'f'] , children: [1382, 1383]
+435  /QQ/c22c/K/c4 , player 0 , infoset: 77 , actions: ['4', 'c', 'f'] , children: [434, 1384, 1385]
+436  /QQ/c22c/K/c , player 1 , infoset: 61 , actions: ['4', 'c'] , children: [435, 1386]
+437  /QQ/c22c/K/ , player 0 , infoset: 75 , actions: ['4', 'c'] , children: [433, 436]
+438  /QQ/c22 , player 1 , infoset: 53 , actions: ['c', 'f'] , children: [22, 1387]
+439  /QQ/c2c/J/44 , player 0 , infoset: 79 , actions: ['c', 'f'] , children: [1388, 1389]
+440  /QQ/c2c/J/4 , player 1 , infoset: 63 , actions: ['4', 'c', 'f'] , children: [439, 1390, 1391]
+441  /QQ/c2c/J/c44 , player 1 , infoset: 65 , actions: ['c', 'f'] , children: [1392, 1393]
+442  /QQ/c2c/J/c4 , player 0 , infoset: 80 , actions: ['4', 'c', 'f'] , children: [441, 1394, 1395]
+443  /QQ/c2c/J/c , player 1 , infoset: 64 , actions: ['4', 'c'] , children: [442, 1396]
+444  /QQ/c2c/J/ , player 0 , infoset: 78 , actions: ['4', 'c'] , children: [440, 443]
+445  /QQ/c2c/K/44 , player 0 , infoset: 85 , actions: ['c', 'f'] , children: [1397, 1398]
+446  /QQ/c2c/K/4 , player 1 , infoset: 69 , actions: ['4', 'c', 'f'] , children: [445, 1399, 1400]
+447  /QQ/c2c/K/c44 , player 1 , infoset: 71 , actions: ['c', 'f'] , children: [1401, 1402]
+448  /QQ/c2c/K/c4 , player 0 , infoset: 86 , actions: ['4', 'c', 'f'] , children: [447, 1403, 1404]
+449  /QQ/c2c/K/c , player 1 , infoset: 70 , actions: ['4', 'c'] , children: [448, 1405]
+450  /QQ/c2c/K/ , player 0 , infoset: 84 , actions: ['4', 'c'] , children: [446, 449]
+451  /QQ/c2 , player 0 , infoset: 68 , actions: ['2', 'c', 'f'] , children: [438, 23, 1406]
+452  /QQ/cc/J/44 , player 0 , infoset: 88 , actions: ['c', 'f'] , children: [1407, 1408]
+453  /QQ/cc/J/4 , player 1 , infoset: 72 , actions: ['4', 'c', 'f'] , children: [452, 1409, 1410]
+454  /QQ/cc/J/c44 , player 1 , infoset: 74 , actions: ['c', 'f'] , children: [1411, 1412]
+455  /QQ/cc/J/c4 , player 0 , infoset: 89 , actions: ['4', 'c', 'f'] , children: [454, 1413, 1414]
+456  /QQ/cc/J/c , player 1 , infoset: 73 , actions: ['4', 'c'] , children: [455, 1415]
+457  /QQ/cc/J/ , player 0 , infoset: 87 , actions: ['4', 'c'] , children: [453, 456]
+458  /QQ/cc/K/44 , player 0 , infoset: 94 , actions: ['c', 'f'] , children: [1416, 1417]
+459  /QQ/cc/K/4 , player 1 , infoset: 78 , actions: ['4', 'c', 'f'] , children: [458, 1418, 1419]
+460  /QQ/cc/K/c44 , player 1 , infoset: 80 , actions: ['c', 'f'] , children: [1420, 1421]
+461  /QQ/cc/K/c4 , player 0 , infoset: 95 , actions: ['4', 'c', 'f'] , children: [460, 1422, 1423]
+462  /QQ/cc/K/c , player 1 , infoset: 79 , actions: ['4', 'c'] , children: [461, 1424]
+463  /QQ/cc/K/ , player 0 , infoset: 93 , actions: ['4', 'c'] , children: [459, 462]
+464  /QQ/c , player 1 , infoset: 52 , actions: ['2', 'c'] , children: [451, 24]
+465  /QQ/ , player 0 , infoset: 48 , actions: ['2', 'c'] , children: [425, 464]
+466  /QK/22c/J/44 , player 0 , infoset: 51 , actions: ['c', 'f'] , children: [1425, 1426]
+467  /QK/22c/J/4 , player 1 , infoset: 82 , actions: ['4', 'c', 'f'] , children: [466, 1427, 1428]
+468  /QK/22c/J/c44 , player 1 , infoset: 84 , actions: ['c', 'f'] , children: [1429, 1430]
+469  /QK/22c/J/c4 , player 0 , infoset: 52 , actions: ['4', 'c', 'f'] , children: [468, 1431, 1432]
+470  /QK/22c/J/c , player 1 , infoset: 83 , actions: ['4', 'c'] , children: [469, 1433]
+471  /QK/22c/J/ , player 0 , infoset: 50 , actions: ['4', 'c'] , children: [467, 470]
+472  /QK/22c/Q/44 , player 0 , infoset: 54 , actions: ['c', 'f'] , children: [1434, 1435]
+473  /QK/22c/Q/4 , player 1 , infoset: 85 , actions: ['4', 'c', 'f'] , children: [472, 1436, 1437]
+474  /QK/22c/Q/c44 , player 1 , infoset: 87 , actions: ['c', 'f'] , children: [1438, 1439]
+475  /QK/22c/Q/c4 , player 0 , infoset: 55 , actions: ['4', 'c', 'f'] , children: [474, 1440, 1441]
+476  /QK/22c/Q/c , player 1 , infoset: 86 , actions: ['4', 'c'] , children: [475, 1442]
+477  /QK/22c/Q/ , player 0 , infoset: 53 , actions: ['4', 'c'] , children: [473, 476]
+478  /QK/22c/K/44 , player 0 , infoset: 57 , actions: ['c', 'f'] , children: [1443, 1444]
+479  /QK/22c/K/4 , player 1 , infoset: 88 , actions: ['4', 'c', 'f'] , children: [478, 1445, 1446]
+480  /QK/22c/K/c44 , player 1 , infoset: 90 , actions: ['c', 'f'] , children: [1447, 1448]
+481  /QK/22c/K/c4 , player 0 , infoset: 58 , actions: ['4', 'c', 'f'] , children: [480, 1449, 1450]
+482  /QK/22c/K/c , player 1 , infoset: 89 , actions: ['4', 'c'] , children: [481, 1451]
+483  /QK/22c/K/ , player 0 , infoset: 56 , actions: ['4', 'c'] , children: [479, 482]
+484  /QK/22 , player 0 , infoset: 49 , actions: ['c', 'f'] , children: [25, 1452]
+485  /QK/2c/J/44 , player 0 , infoset: 60 , actions: ['c', 'f'] , children: [1453, 1454]
+486  /QK/2c/J/4 , player 1 , infoset: 91 , actions: ['4', 'c', 'f'] , children: [485, 1455, 1456]
+487  /QK/2c/J/c44 , player 1 , infoset: 93 , actions: ['c', 'f'] , children: [1457, 1458]
+488  /QK/2c/J/c4 , player 0 , infoset: 61 , actions: ['4', 'c', 'f'] , children: [487, 1459, 1460]
+489  /QK/2c/J/c , player 1 , infoset: 92 , actions: ['4', 'c'] , children: [488, 1461]
+490  /QK/2c/J/ , player 0 , infoset: 59 , actions: ['4', 'c'] , children: [486, 489]
+491  /QK/2c/Q/44 , player 0 , infoset: 63 , actions: ['c', 'f'] , children: [1462, 1463]
+492  /QK/2c/Q/4 , player 1 , infoset: 94 , actions: ['4', 'c', 'f'] , children: [491, 1464, 1465]
+493  /QK/2c/Q/c44 , player 1 , infoset: 96 , actions: ['c', 'f'] , children: [1466, 1467]
+494  /QK/2c/Q/c4 , player 0 , infoset: 64 , actions: ['4', 'c', 'f'] , children: [493, 1468, 1469]
+495  /QK/2c/Q/c , player 1 , infoset: 95 , actions: ['4', 'c'] , children: [494, 1470]
+496  /QK/2c/Q/ , player 0 , infoset: 62 , actions: ['4', 'c'] , children: [492, 495]
+497  /QK/2c/K/44 , player 0 , infoset: 66 , actions: ['c', 'f'] , children: [1471, 1472]
+498  /QK/2c/K/4 , player 1 , infoset: 97 , actions: ['4', 'c', 'f'] , children: [497, 1473, 1474]
+499  /QK/2c/K/c44 , player 1 , infoset: 99 , actions: ['c', 'f'] , children: [1475, 1476]
+500  /QK/2c/K/c4 , player 0 , infoset: 67 , actions: ['4', 'c', 'f'] , children: [499, 1477, 1478]
+501  /QK/2c/K/c , player 1 , infoset: 98 , actions: ['4', 'c'] , children: [500, 1479]
+502  /QK/2c/K/ , player 0 , infoset: 65 , actions: ['4', 'c'] , children: [498, 501]
+503  /QK/2 , player 1 , infoset: 81 , actions: ['2', 'c', 'f'] , children: [484, 26, 1480]
+504  /QK/c22c/J/44 , player 0 , infoset: 70 , actions: ['c', 'f'] , children: [1481, 1482]
+505  /QK/c22c/J/4 , player 1 , infoset: 102 , actions: ['4', 'c', 'f'] , children: [504, 1483, 1484]
+506  /QK/c22c/J/c44 , player 1 , infoset: 104 , actions: ['c', 'f'] , children: [1485, 1486]
+507  /QK/c22c/J/c4 , player 0 , infoset: 71 , actions: ['4', 'c', 'f'] , children: [506, 1487, 1488]
+508  /QK/c22c/J/c , player 1 , infoset: 103 , actions: ['4', 'c'] , children: [507, 1489]
+509  /QK/c22c/J/ , player 0 , infoset: 69 , actions: ['4', 'c'] , children: [505, 508]
+510  /QK/c22c/Q/44 , player 0 , infoset: 73 , actions: ['c', 'f'] , children: [1490, 1491]
+511  /QK/c22c/Q/4 , player 1 , infoset: 105 , actions: ['4', 'c', 'f'] , children: [510, 1492, 1493]
+512  /QK/c22c/Q/c44 , player 1 , infoset: 107 , actions: ['c', 'f'] , children: [1494, 1495]
+513  /QK/c22c/Q/c4 , player 0 , infoset: 74 , actions: ['4', 'c', 'f'] , children: [512, 1496, 1497]
+514  /QK/c22c/Q/c , player 1 , infoset: 106 , actions: ['4', 'c'] , children: [513, 1498]
+515  /QK/c22c/Q/ , player 0 , infoset: 72 , actions: ['4', 'c'] , children: [511, 514]
+516  /QK/c22c/K/44 , player 0 , infoset: 76 , actions: ['c', 'f'] , children: [1499, 1500]
+517  /QK/c22c/K/4 , player 1 , infoset: 108 , actions: ['4', 'c', 'f'] , children: [516, 1501, 1502]
+518  /QK/c22c/K/c44 , player 1 , infoset: 110 , actions: ['c', 'f'] , children: [1503, 1504]
+519  /QK/c22c/K/c4 , player 0 , infoset: 77 , actions: ['4', 'c', 'f'] , children: [518, 1505, 1506]
+520  /QK/c22c/K/c , player 1 , infoset: 109 , actions: ['4', 'c'] , children: [519, 1507]
+521  /QK/c22c/K/ , player 0 , infoset: 75 , actions: ['4', 'c'] , children: [517, 520]
+522  /QK/c22 , player 1 , infoset: 101 , actions: ['c', 'f'] , children: [27, 1508]
+523  /QK/c2c/J/44 , player 0 , infoset: 79 , actions: ['c', 'f'] , children: [1509, 1510]
+524  /QK/c2c/J/4 , player 1 , infoset: 111 , actions: ['4', 'c', 'f'] , children: [523, 1511, 1512]
+525  /QK/c2c/J/c44 , player 1 , infoset: 113 , actions: ['c', 'f'] , children: [1513, 1514]
+526  /QK/c2c/J/c4 , player 0 , infoset: 80 , actions: ['4', 'c', 'f'] , children: [525, 1515, 1516]
+527  /QK/c2c/J/c , player 1 , infoset: 112 , actions: ['4', 'c'] , children: [526, 1517]
+528  /QK/c2c/J/ , player 0 , infoset: 78 , actions: ['4', 'c'] , children: [524, 527]
+529  /QK/c2c/Q/44 , player 0 , infoset: 82 , actions: ['c', 'f'] , children: [1518, 1519]
+530  /QK/c2c/Q/4 , player 1 , infoset: 114 , actions: ['4', 'c', 'f'] , children: [529, 1520, 1521]
+531  /QK/c2c/Q/c44 , player 1 , infoset: 116 , actions: ['c', 'f'] , children: [1522, 1523]
+532  /QK/c2c/Q/c4 , player 0 , infoset: 83 , actions: ['4', 'c', 'f'] , children: [531, 1524, 1525]
+533  /QK/c2c/Q/c , player 1 , infoset: 115 , actions: ['4', 'c'] , children: [532, 1526]
+534  /QK/c2c/Q/ , player 0 , infoset: 81 , actions: ['4', 'c'] , children: [530, 533]
+535  /QK/c2c/K/44 , player 0 , infoset: 85 , actions: ['c', 'f'] , children: [1527, 1528]
+536  /QK/c2c/K/4 , player 1 , infoset: 117 , actions: ['4', 'c', 'f'] , children: [535, 1529, 1530]
+537  /QK/c2c/K/c44 , player 1 , infoset: 119 , actions: ['c', 'f'] , children: [1531, 1532]
+538  /QK/c2c/K/c4 , player 0 , infoset: 86 , actions: ['4', 'c', 'f'] , children: [537, 1533, 1534]
+539  /QK/c2c/K/c , player 1 , infoset: 118 , actions: ['4', 'c'] , children: [538, 1535]
+540  /QK/c2c/K/ , player 0 , infoset: 84 , actions: ['4', 'c'] , children: [536, 539]
+541  /QK/c2 , player 0 , infoset: 68 , actions: ['2', 'c', 'f'] , children: [522, 28, 1536]
+542  /QK/cc/J/44 , player 0 , infoset: 88 , actions: ['c', 'f'] , children: [1537, 1538]
+543  /QK/cc/J/4 , player 1 , infoset: 120 , actions: ['4', 'c', 'f'] , children: [542, 1539, 1540]
+544  /QK/cc/J/c44 , player 1 , infoset: 122 , actions: ['c', 'f'] , children: [1541, 1542]
+545  /QK/cc/J/c4 , player 0 , infoset: 89 , actions: ['4', 'c', 'f'] , children: [544, 1543, 1544]
+546  /QK/cc/J/c , player 1 , infoset: 121 , actions: ['4', 'c'] , children: [545, 1545]
+547  /QK/cc/J/ , player 0 , infoset: 87 , actions: ['4', 'c'] , children: [543, 546]
+548  /QK/cc/Q/44 , player 0 , infoset: 91 , actions: ['c', 'f'] , children: [1546, 1547]
+549  /QK/cc/Q/4 , player 1 , infoset: 123 , actions: ['4', 'c', 'f'] , children: [548, 1548, 1549]
+550  /QK/cc/Q/c44 , player 1 , infoset: 125 , actions: ['c', 'f'] , children: [1550, 1551]
+551  /QK/cc/Q/c4 , player 0 , infoset: 92 , actions: ['4', 'c', 'f'] , children: [550, 1552, 1553]
+552  /QK/cc/Q/c , player 1 , infoset: 124 , actions: ['4', 'c'] , children: [551, 1554]
+553  /QK/cc/Q/ , player 0 , infoset: 90 , actions: ['4', 'c'] , children: [549, 552]
+554  /QK/cc/K/44 , player 0 , infoset: 94 , actions: ['c', 'f'] , children: [1555, 1556]
+555  /QK/cc/K/4 , player 1 , infoset: 126 , actions: ['4', 'c', 'f'] , children: [554, 1557, 1558]
+556  /QK/cc/K/c44 , player 1 , infoset: 128 , actions: ['c', 'f'] , children: [1559, 1560]
+557  /QK/cc/K/c4 , player 0 , infoset: 95 , actions: ['4', 'c', 'f'] , children: [556, 1561, 1562]
+558  /QK/cc/K/c , player 1 , infoset: 127 , actions: ['4', 'c'] , children: [557, 1563]
+559  /QK/cc/K/ , player 0 , infoset: 93 , actions: ['4', 'c'] , children: [555, 558]
+560  /QK/c , player 1 , infoset: 100 , actions: ['2', 'c'] , children: [541, 29]
+561  /QK/ , player 0 , infoset: 48 , actions: ['2', 'c'] , children: [503, 560]
+562  /KJ/22c/J/44 , player 0 , infoset: 99 , actions: ['c', 'f'] , children: [1564, 1565]
+563  /KJ/22c/J/4 , player 1 , infoset: 129 , actions: ['4', 'c', 'f'] , children: [562, 1566, 1567]
+564  /KJ/22c/J/c44 , player 1 , infoset: 131 , actions: ['c', 'f'] , children: [1568, 1569]
+565  /KJ/22c/J/c4 , player 0 , infoset: 100 , actions: ['4', 'c', 'f'] , children: [564, 1570, 1571]
+566  /KJ/22c/J/c , player 1 , infoset: 130 , actions: ['4', 'c'] , children: [565, 1572]
+567  /KJ/22c/J/ , player 0 , infoset: 98 , actions: ['4', 'c'] , children: [563, 566]
+568  /KJ/22c/Q/44 , player 0 , infoset: 102 , actions: ['c', 'f'] , children: [1573, 1574]
+569  /KJ/22c/Q/4 , player 1 , infoset: 1 , actions: ['4', 'c', 'f'] , children: [568, 1575, 1576]
+570  /KJ/22c/Q/c44 , player 1 , infoset: 3 , actions: ['c', 'f'] , children: [1577, 1578]
+571  /KJ/22c/Q/c4 , player 0 , infoset: 103 , actions: ['4', 'c', 'f'] , children: [570, 1579, 1580]
+572  /KJ/22c/Q/c , player 1 , infoset: 2 , actions: ['4', 'c'] , children: [571, 1581]
+573  /KJ/22c/Q/ , player 0 , infoset: 101 , actions: ['4', 'c'] , children: [569, 572]
+574  /KJ/22c/K/44 , player 0 , infoset: 105 , actions: ['c', 'f'] , children: [1582, 1583]
+575  /KJ/22c/K/4 , player 1 , infoset: 4 , actions: ['4', 'c', 'f'] , children: [574, 1584, 1585]
+576  /KJ/22c/K/c44 , player 1 , infoset: 6 , actions: ['c', 'f'] , children: [1586, 1587]
+577  /KJ/22c/K/c4 , player 0 , infoset: 106 , actions: ['4', 'c', 'f'] , children: [576, 1588, 1589]
+578  /KJ/22c/K/c , player 1 , infoset: 5 , actions: ['4', 'c'] , children: [577, 1590]
+579  /KJ/22c/K/ , player 0 , infoset: 104 , actions: ['4', 'c'] , children: [575, 578]
+580  /KJ/22 , player 0 , infoset: 97 , actions: ['c', 'f'] , children: [30, 1591]
+581  /KJ/2c/J/44 , player 0 , infoset: 108 , actions: ['c', 'f'] , children: [1592, 1593]
+582  /KJ/2c/J/4 , player 1 , infoset: 132 , actions: ['4', 'c', 'f'] , children: [581, 1594, 1595]
+583  /KJ/2c/J/c44 , player 1 , infoset: 134 , actions: ['c', 'f'] , children: [1596, 1597]
+584  /KJ/2c/J/c4 , player 0 , infoset: 109 , actions: ['4', 'c', 'f'] , children: [583, 1598, 1599]
+585  /KJ/2c/J/c , player 1 , infoset: 133 , actions: ['4', 'c'] , children: [584, 1600]
+586  /KJ/2c/J/ , player 0 , infoset: 107 , actions: ['4', 'c'] , children: [582, 585]
+587  /KJ/2c/Q/44 , player 0 , infoset: 111 , actions: ['c', 'f'] , children: [1601, 1602]
+588  /KJ/2c/Q/4 , player 1 , infoset: 7 , actions: ['4', 'c', 'f'] , children: [587, 1603, 1604]
+589  /KJ/2c/Q/c44 , player 1 , infoset: 9 , actions: ['c', 'f'] , children: [1605, 1606]
+590  /KJ/2c/Q/c4 , player 0 , infoset: 112 , actions: ['4', 'c', 'f'] , children: [589, 1607, 1608]
+591  /KJ/2c/Q/c , player 1 , infoset: 8 , actions: ['4', 'c'] , children: [590, 1609]
+592  /KJ/2c/Q/ , player 0 , infoset: 110 , actions: ['4', 'c'] , children: [588, 591]
+593  /KJ/2c/K/44 , player 0 , infoset: 114 , actions: ['c', 'f'] , children: [1610, 1611]
+594  /KJ/2c/K/4 , player 1 , infoset: 10 , actions: ['4', 'c', 'f'] , children: [593, 1612, 1613]
+595  /KJ/2c/K/c44 , player 1 , infoset: 12 , actions: ['c', 'f'] , children: [1614, 1615]
+596  /KJ/2c/K/c4 , player 0 , infoset: 115 , actions: ['4', 'c', 'f'] , children: [595, 1616, 1617]
+597  /KJ/2c/K/c , player 1 , infoset: 11 , actions: ['4', 'c'] , children: [596, 1618]
+598  /KJ/2c/K/ , player 0 , infoset: 113 , actions: ['4', 'c'] , children: [594, 597]
+599  /KJ/2 , player 1 , infoset: 0 , actions: ['2', 'c', 'f'] , children: [580, 31, 1619]
+600  /KJ/c22c/J/44 , player 0 , infoset: 118 , actions: ['c', 'f'] , children: [1620, 1621]
+601  /KJ/c22c/J/4 , player 1 , infoset: 135 , actions: ['4', 'c', 'f'] , children: [600, 1622, 1623]
+602  /KJ/c22c/J/c44 , player 1 , infoset: 137 , actions: ['c', 'f'] , children: [1624, 1625]
+603  /KJ/c22c/J/c4 , player 0 , infoset: 119 , actions: ['4', 'c', 'f'] , children: [602, 1626, 1627]
+604  /KJ/c22c/J/c , player 1 , infoset: 136 , actions: ['4', 'c'] , children: [603, 1628]
+605  /KJ/c22c/J/ , player 0 , infoset: 117 , actions: ['4', 'c'] , children: [601, 604]
+606  /KJ/c22c/Q/44 , player 0 , infoset: 121 , actions: ['c', 'f'] , children: [1629, 1630]
+607  /KJ/c22c/Q/4 , player 1 , infoset: 15 , actions: ['4', 'c', 'f'] , children: [606, 1631, 1632]
+608  /KJ/c22c/Q/c44 , player 1 , infoset: 17 , actions: ['c', 'f'] , children: [1633, 1634]
+609  /KJ/c22c/Q/c4 , player 0 , infoset: 122 , actions: ['4', 'c', 'f'] , children: [608, 1635, 1636]
+610  /KJ/c22c/Q/c , player 1 , infoset: 16 , actions: ['4', 'c'] , children: [609, 1637]
+611  /KJ/c22c/Q/ , player 0 , infoset: 120 , actions: ['4', 'c'] , children: [607, 610]
+612  /KJ/c22c/K/44 , player 0 , infoset: 124 , actions: ['c', 'f'] , children: [1638, 1639]
+613  /KJ/c22c/K/4 , player 1 , infoset: 18 , actions: ['4', 'c', 'f'] , children: [612, 1640, 1641]
+614  /KJ/c22c/K/c44 , player 1 , infoset: 20 , actions: ['c', 'f'] , children: [1642, 1643]
+615  /KJ/c22c/K/c4 , player 0 , infoset: 125 , actions: ['4', 'c', 'f'] , children: [614, 1644, 1645]
+616  /KJ/c22c/K/c , player 1 , infoset: 19 , actions: ['4', 'c'] , children: [615, 1646]
+617  /KJ/c22c/K/ , player 0 , infoset: 123 , actions: ['4', 'c'] , children: [613, 616]
+618  /KJ/c22 , player 1 , infoset: 14 , actions: ['c', 'f'] , children: [32, 1647]
+619  /KJ/c2c/J/44 , player 0 , infoset: 127 , actions: ['c', 'f'] , children: [1648, 1649]
+620  /KJ/c2c/J/4 , player 1 , infoset: 138 , actions: ['4', 'c', 'f'] , children: [619, 1650, 1651]
+621  /KJ/c2c/J/c44 , player 1 , infoset: 140 , actions: ['c', 'f'] , children: [1652, 1653]
+622  /KJ/c2c/J/c4 , player 0 , infoset: 128 , actions: ['4', 'c', 'f'] , children: [621, 1654, 1655]
+623  /KJ/c2c/J/c , player 1 , infoset: 139 , actions: ['4', 'c'] , children: [622, 1656]
+624  /KJ/c2c/J/ , player 0 , infoset: 126 , actions: ['4', 'c'] , children: [620, 623]
+625  /KJ/c2c/Q/44 , player 0 , infoset: 130 , actions: ['c', 'f'] , children: [1657, 1658]
+626  /KJ/c2c/Q/4 , player 1 , infoset: 21 , actions: ['4', 'c', 'f'] , children: [625, 1659, 1660]
+627  /KJ/c2c/Q/c44 , player 1 , infoset: 23 , actions: ['c', 'f'] , children: [1661, 1662]
+628  /KJ/c2c/Q/c4 , player 0 , infoset: 131 , actions: ['4', 'c', 'f'] , children: [627, 1663, 1664]
+629  /KJ/c2c/Q/c , player 1 , infoset: 22 , actions: ['4', 'c'] , children: [628, 1665]
+630  /KJ/c2c/Q/ , player 0 , infoset: 129 , actions: ['4', 'c'] , children: [626, 629]
+631  /KJ/c2c/K/44 , player 0 , infoset: 133 , actions: ['c', 'f'] , children: [1666, 1667]
+632  /KJ/c2c/K/4 , player 1 , infoset: 24 , actions: ['4', 'c', 'f'] , children: [631, 1668, 1669]
+633  /KJ/c2c/K/c44 , player 1 , infoset: 26 , actions: ['c', 'f'] , children: [1670, 1671]
+634  /KJ/c2c/K/c4 , player 0 , infoset: 134 , actions: ['4', 'c', 'f'] , children: [633, 1672, 1673]
+635  /KJ/c2c/K/c , player 1 , infoset: 25 , actions: ['4', 'c'] , children: [634, 1674]
+636  /KJ/c2c/K/ , player 0 , infoset: 132 , actions: ['4', 'c'] , children: [632, 635]
+637  /KJ/c2 , player 0 , infoset: 116 , actions: ['2', 'c', 'f'] , children: [618, 33, 1675]
+638  /KJ/cc/J/44 , player 0 , infoset: 136 , actions: ['c', 'f'] , children: [1676, 1677]
+639  /KJ/cc/J/4 , player 1 , infoset: 141 , actions: ['4', 'c', 'f'] , children: [638, 1678, 1679]
+640  /KJ/cc/J/c44 , player 1 , infoset: 143 , actions: ['c', 'f'] , children: [1680, 1681]
+641  /KJ/cc/J/c4 , player 0 , infoset: 137 , actions: ['4', 'c', 'f'] , children: [640, 1682, 1683]
+642  /KJ/cc/J/c , player 1 , infoset: 142 , actions: ['4', 'c'] , children: [641, 1684]
+643  /KJ/cc/J/ , player 0 , infoset: 135 , actions: ['4', 'c'] , children: [639, 642]
+644  /KJ/cc/Q/44 , player 0 , infoset: 139 , actions: ['c', 'f'] , children: [1685, 1686]
+645  /KJ/cc/Q/4 , player 1 , infoset: 27 , actions: ['4', 'c', 'f'] , children: [644, 1687, 1688]
+646  /KJ/cc/Q/c44 , player 1 , infoset: 29 , actions: ['c', 'f'] , children: [1689, 1690]
+647  /KJ/cc/Q/c4 , player 0 , infoset: 140 , actions: ['4', 'c', 'f'] , children: [646, 1691, 1692]
+648  /KJ/cc/Q/c , player 1 , infoset: 28 , actions: ['4', 'c'] , children: [647, 1693]
+649  /KJ/cc/Q/ , player 0 , infoset: 138 , actions: ['4', 'c'] , children: [645, 648]
+650  /KJ/cc/K/44 , player 0 , infoset: 142 , actions: ['c', 'f'] , children: [1694, 1695]
+651  /KJ/cc/K/4 , player 1 , infoset: 30 , actions: ['4', 'c', 'f'] , children: [650, 1696, 1697]
+652  /KJ/cc/K/c44 , player 1 , infoset: 32 , actions: ['c', 'f'] , children: [1698, 1699]
+653  /KJ/cc/K/c4 , player 0 , infoset: 143 , actions: ['4', 'c', 'f'] , children: [652, 1700, 1701]
+654  /KJ/cc/K/c , player 1 , infoset: 31 , actions: ['4', 'c'] , children: [653, 1702]
+655  /KJ/cc/K/ , player 0 , infoset: 141 , actions: ['4', 'c'] , children: [651, 654]
+656  /KJ/c , player 1 , infoset: 13 , actions: ['2', 'c'] , children: [637, 34]
+657  /KJ/ , player 0 , infoset: 96 , actions: ['2', 'c'] , children: [599, 656]
+658  /KQ/22c/J/44 , player 0 , infoset: 99 , actions: ['c', 'f'] , children: [1703, 1704]
+659  /KQ/22c/J/4 , player 1 , infoset: 34 , actions: ['4', 'c', 'f'] , children: [658, 1705, 1706]
+660  /KQ/22c/J/c44 , player 1 , infoset: 36 , actions: ['c', 'f'] , children: [1707, 1708]
+661  /KQ/22c/J/c4 , player 0 , infoset: 100 , actions: ['4', 'c', 'f'] , children: [660, 1709, 1710]
+662  /KQ/22c/J/c , player 1 , infoset: 35 , actions: ['4', 'c'] , children: [661, 1711]
+663  /KQ/22c/J/ , player 0 , infoset: 98 , actions: ['4', 'c'] , children: [659, 662]
+664  /KQ/22c/Q/44 , player 0 , infoset: 102 , actions: ['c', 'f'] , children: [1712, 1713]
+665  /KQ/22c/Q/4 , player 1 , infoset: 37 , actions: ['4', 'c', 'f'] , children: [664, 1714, 1715]
+666  /KQ/22c/Q/c44 , player 1 , infoset: 39 , actions: ['c', 'f'] , children: [1716, 1717]
+667  /KQ/22c/Q/c4 , player 0 , infoset: 103 , actions: ['4', 'c', 'f'] , children: [666, 1718, 1719]
+668  /KQ/22c/Q/c , player 1 , infoset: 38 , actions: ['4', 'c'] , children: [667, 1720]
+669  /KQ/22c/Q/ , player 0 , infoset: 101 , actions: ['4', 'c'] , children: [665, 668]
+670  /KQ/22c/K/44 , player 0 , infoset: 105 , actions: ['c', 'f'] , children: [1721, 1722]
+671  /KQ/22c/K/4 , player 1 , infoset: 40 , actions: ['4', 'c', 'f'] , children: [670, 1723, 1724]
+672  /KQ/22c/K/c44 , player 1 , infoset: 42 , actions: ['c', 'f'] , children: [1725, 1726]
+673  /KQ/22c/K/c4 , player 0 , infoset: 106 , actions: ['4', 'c', 'f'] , children: [672, 1727, 1728]
+674  /KQ/22c/K/c , player 1 , infoset: 41 , actions: ['4', 'c'] , children: [673, 1729]
+675  /KQ/22c/K/ , player 0 , infoset: 104 , actions: ['4', 'c'] , children: [671, 674]
+676  /KQ/22 , player 0 , infoset: 97 , actions: ['c', 'f'] , children: [35, 1730]
+677  /KQ/2c/J/44 , player 0 , infoset: 108 , actions: ['c', 'f'] , children: [1731, 1732]
+678  /KQ/2c/J/4 , player 1 , infoset: 43 , actions: ['4', 'c', 'f'] , children: [677, 1733, 1734]
+679  /KQ/2c/J/c44 , player 1 , infoset: 45 , actions: ['c', 'f'] , children: [1735, 1736]
+680  /KQ/2c/J/c4 , player 0 , infoset: 109 , actions: ['4', 'c', 'f'] , children: [679, 1737, 1738]
+681  /KQ/2c/J/c , player 1 , infoset: 44 , actions: ['4', 'c'] , children: [680, 1739]
+682  /KQ/2c/J/ , player 0 , infoset: 107 , actions: ['4', 'c'] , children: [678, 681]
+683  /KQ/2c/Q/44 , player 0 , infoset: 111 , actions: ['c', 'f'] , children: [1740, 1741]
+684  /KQ/2c/Q/4 , player 1 , infoset: 46 , actions: ['4', 'c', 'f'] , children: [683, 1742, 1743]
+685  /KQ/2c/Q/c44 , player 1 , infoset: 48 , actions: ['c', 'f'] , children: [1744, 1745]
+686  /KQ/2c/Q/c4 , player 0 , infoset: 112 , actions: ['4', 'c', 'f'] , children: [685, 1746, 1747]
+687  /KQ/2c/Q/c , player 1 , infoset: 47 , actions: ['4', 'c'] , children: [686, 1748]
+688  /KQ/2c/Q/ , player 0 , infoset: 110 , actions: ['4', 'c'] , children: [684, 687]
+689  /KQ/2c/K/44 , player 0 , infoset: 114 , actions: ['c', 'f'] , children: [1749, 1750]
+690  /KQ/2c/K/4 , player 1 , infoset: 49 , actions: ['4', 'c', 'f'] , children: [689, 1751, 1752]
+691  /KQ/2c/K/c44 , player 1 , infoset: 51 , actions: ['c', 'f'] , children: [1753, 1754]
+692  /KQ/2c/K/c4 , player 0 , infoset: 115 , actions: ['4', 'c', 'f'] , children: [691, 1755, 1756]
+693  /KQ/2c/K/c , player 1 , infoset: 50 , actions: ['4', 'c'] , children: [692, 1757]
+694  /KQ/2c/K/ , player 0 , infoset: 113 , actions: ['4', 'c'] , children: [690, 693]
+695  /KQ/2 , player 1 , infoset: 33 , actions: ['2', 'c', 'f'] , children: [676, 36, 1758]
+696  /KQ/c22c/J/44 , player 0 , infoset: 118 , actions: ['c', 'f'] , children: [1759, 1760]
+697  /KQ/c22c/J/4 , player 1 , infoset: 54 , actions: ['4', 'c', 'f'] , children: [696, 1761, 1762]
+698  /KQ/c22c/J/c44 , player 1 , infoset: 56 , actions: ['c', 'f'] , children: [1763, 1764]
+699  /KQ/c22c/J/c4 , player 0 , infoset: 119 , actions: ['4', 'c', 'f'] , children: [698, 1765, 1766]
+700  /KQ/c22c/J/c , player 1 , infoset: 55 , actions: ['4', 'c'] , children: [699, 1767]
+701  /KQ/c22c/J/ , player 0 , infoset: 117 , actions: ['4', 'c'] , children: [697, 700]
+702  /KQ/c22c/Q/44 , player 0 , infoset: 121 , actions: ['c', 'f'] , children: [1768, 1769]
+703  /KQ/c22c/Q/4 , player 1 , infoset: 57 , actions: ['4', 'c', 'f'] , children: [702, 1770, 1771]
+704  /KQ/c22c/Q/c44 , player 1 , infoset: 59 , actions: ['c', 'f'] , children: [1772, 1773]
+705  /KQ/c22c/Q/c4 , player 0 , infoset: 122 , actions: ['4', 'c', 'f'] , children: [704, 1774, 1775]
+706  /KQ/c22c/Q/c , player 1 , infoset: 58 , actions: ['4', 'c'] , children: [705, 1776]
+707  /KQ/c22c/Q/ , player 0 , infoset: 120 , actions: ['4', 'c'] , children: [703, 706]
+708  /KQ/c22c/K/44 , player 0 , infoset: 124 , actions: ['c', 'f'] , children: [1777, 1778]
+709  /KQ/c22c/K/4 , player 1 , infoset: 60 , actions: ['4', 'c', 'f'] , children: [708, 1779, 1780]
+710  /KQ/c22c/K/c44 , player 1 , infoset: 62 , actions: ['c', 'f'] , children: [1781, 1782]
+711  /KQ/c22c/K/c4 , player 0 , infoset: 125 , actions: ['4', 'c', 'f'] , children: [710, 1783, 1784]
+712  /KQ/c22c/K/c , player 1 , infoset: 61 , actions: ['4', 'c'] , children: [711, 1785]
+713  /KQ/c22c/K/ , player 0 , infoset: 123 , actions: ['4', 'c'] , children: [709, 712]
+714  /KQ/c22 , player 1 , infoset: 53 , actions: ['c', 'f'] , children: [37, 1786]
+715  /KQ/c2c/J/44 , player 0 , infoset: 127 , actions: ['c', 'f'] , children: [1787, 1788]
+716  /KQ/c2c/J/4 , player 1 , infoset: 63 , actions: ['4', 'c', 'f'] , children: [715, 1789, 1790]
+717  /KQ/c2c/J/c44 , player 1 , infoset: 65 , actions: ['c', 'f'] , children: [1791, 1792]
+718  /KQ/c2c/J/c4 , player 0 , infoset: 128 , actions: ['4', 'c', 'f'] , children: [717, 1793, 1794]
+719  /KQ/c2c/J/c , player 1 , infoset: 64 , actions: ['4', 'c'] , children: [718, 1795]
+720  /KQ/c2c/J/ , player 0 , infoset: 126 , actions: ['4', 'c'] , children: [716, 719]
+721  /KQ/c2c/Q/44 , player 0 , infoset: 130 , actions: ['c', 'f'] , children: [1796, 1797]
+722  /KQ/c2c/Q/4 , player 1 , infoset: 66 , actions: ['4', 'c', 'f'] , children: [721, 1798, 1799]
+723  /KQ/c2c/Q/c44 , player 1 , infoset: 68 , actions: ['c', 'f'] , children: [1800, 1801]
+724  /KQ/c2c/Q/c4 , player 0 , infoset: 131 , actions: ['4', 'c', 'f'] , children: [723, 1802, 1803]
+725  /KQ/c2c/Q/c , player 1 , infoset: 67 , actions: ['4', 'c'] , children: [724, 1804]
+726  /KQ/c2c/Q/ , player 0 , infoset: 129 , actions: ['4', 'c'] , children: [722, 725]
+727  /KQ/c2c/K/44 , player 0 , infoset: 133 , actions: ['c', 'f'] , children: [1805, 1806]
+728  /KQ/c2c/K/4 , player 1 , infoset: 69 , actions: ['4', 'c', 'f'] , children: [727, 1807, 1808]
+729  /KQ/c2c/K/c44 , player 1 , infoset: 71 , actions: ['c', 'f'] , children: [1809, 1810]
+730  /KQ/c2c/K/c4 , player 0 , infoset: 134 , actions: ['4', 'c', 'f'] , children: [729, 1811, 1812]
+731  /KQ/c2c/K/c , player 1 , infoset: 70 , actions: ['4', 'c'] , children: [730, 1813]
+732  /KQ/c2c/K/ , player 0 , infoset: 132 , actions: ['4', 'c'] , children: [728, 731]
+733  /KQ/c2 , player 0 , infoset: 116 , actions: ['2', 'c', 'f'] , children: [714, 38, 1814]
+734  /KQ/cc/J/44 , player 0 , infoset: 136 , actions: ['c', 'f'] , children: [1815, 1816]
+735  /KQ/cc/J/4 , player 1 , infoset: 72 , actions: ['4', 'c', 'f'] , children: [734, 1817, 1818]
+736  /KQ/cc/J/c44 , player 1 , infoset: 74 , actions: ['c', 'f'] , children: [1819, 1820]
+737  /KQ/cc/J/c4 , player 0 , infoset: 137 , actions: ['4', 'c', 'f'] , children: [736, 1821, 1822]
+738  /KQ/cc/J/c , player 1 , infoset: 73 , actions: ['4', 'c'] , children: [737, 1823]
+739  /KQ/cc/J/ , player 0 , infoset: 135 , actions: ['4', 'c'] , children: [735, 738]
+740  /KQ/cc/Q/44 , player 0 , infoset: 139 , actions: ['c', 'f'] , children: [1824, 1825]
+741  /KQ/cc/Q/4 , player 1 , infoset: 75 , actions: ['4', 'c', 'f'] , children: [740, 1826, 1827]
+742  /KQ/cc/Q/c44 , player 1 , infoset: 77 , actions: ['c', 'f'] , children: [1828, 1829]
+743  /KQ/cc/Q/c4 , player 0 , infoset: 140 , actions: ['4', 'c', 'f'] , children: [742, 1830, 1831]
+744  /KQ/cc/Q/c , player 1 , infoset: 76 , actions: ['4', 'c'] , children: [743, 1832]
+745  /KQ/cc/Q/ , player 0 , infoset: 138 , actions: ['4', 'c'] , children: [741, 744]
+746  /KQ/cc/K/44 , player 0 , infoset: 142 , actions: ['c', 'f'] , children: [1833, 1834]
+747  /KQ/cc/K/4 , player 1 , infoset: 78 , actions: ['4', 'c', 'f'] , children: [746, 1835, 1836]
+748  /KQ/cc/K/c44 , player 1 , infoset: 80 , actions: ['c', 'f'] , children: [1837, 1838]
+749  /KQ/cc/K/c4 , player 0 , infoset: 143 , actions: ['4', 'c', 'f'] , children: [748, 1839, 1840]
+750  /KQ/cc/K/c , player 1 , infoset: 79 , actions: ['4', 'c'] , children: [749, 1841]
+751  /KQ/cc/K/ , player 0 , infoset: 141 , actions: ['4', 'c'] , children: [747, 750]
+752  /KQ/c , player 1 , infoset: 52 , actions: ['2', 'c'] , children: [733, 39]
+753  /KQ/ , player 0 , infoset: 96 , actions: ['2', 'c'] , children: [695, 752]
+754  /KK/22c/J/44 , player 0 , infoset: 99 , actions: ['c', 'f'] , children: [1842, 1843]
+755  /KK/22c/J/4 , player 1 , infoset: 82 , actions: ['4', 'c', 'f'] , children: [754, 1844, 1845]
+756  /KK/22c/J/c44 , player 1 , infoset: 84 , actions: ['c', 'f'] , children: [1846, 1847]
+757  /KK/22c/J/c4 , player 0 , infoset: 100 , actions: ['4', 'c', 'f'] , children: [756, 1848, 1849]
+758  /KK/22c/J/c , player 1 , infoset: 83 , actions: ['4', 'c'] , children: [757, 1850]
+759  /KK/22c/J/ , player 0 , infoset: 98 , actions: ['4', 'c'] , children: [755, 758]
+760  /KK/22c/Q/44 , player 0 , infoset: 102 , actions: ['c', 'f'] , children: [1851, 1852]
+761  /KK/22c/Q/4 , player 1 , infoset: 85 , actions: ['4', 'c', 'f'] , children: [760, 1853, 1854]
+762  /KK/22c/Q/c44 , player 1 , infoset: 87 , actions: ['c', 'f'] , children: [1855, 1856]
+763  /KK/22c/Q/c4 , player 0 , infoset: 103 , actions: ['4', 'c', 'f'] , children: [762, 1857, 1858]
+764  /KK/22c/Q/c , player 1 , infoset: 86 , actions: ['4', 'c'] , children: [763, 1859]
+765  /KK/22c/Q/ , player 0 , infoset: 101 , actions: ['4', 'c'] , children: [761, 764]
+766  /KK/22 , player 0 , infoset: 97 , actions: ['c', 'f'] , children: [40, 1860]
+767  /KK/2c/J/44 , player 0 , infoset: 108 , actions: ['c', 'f'] , children: [1861, 1862]
+768  /KK/2c/J/4 , player 1 , infoset: 91 , actions: ['4', 'c', 'f'] , children: [767, 1863, 1864]
+769  /KK/2c/J/c44 , player 1 , infoset: 93 , actions: ['c', 'f'] , children: [1865, 1866]
+770  /KK/2c/J/c4 , player 0 , infoset: 109 , actions: ['4', 'c', 'f'] , children: [769, 1867, 1868]
+771  /KK/2c/J/c , player 1 , infoset: 92 , actions: ['4', 'c'] , children: [770, 1869]
+772  /KK/2c/J/ , player 0 , infoset: 107 , actions: ['4', 'c'] , children: [768, 771]
+773  /KK/2c/Q/44 , player 0 , infoset: 111 , actions: ['c', 'f'] , children: [1870, 1871]
+774  /KK/2c/Q/4 , player 1 , infoset: 94 , actions: ['4', 'c', 'f'] , children: [773, 1872, 1873]
+775  /KK/2c/Q/c44 , player 1 , infoset: 96 , actions: ['c', 'f'] , children: [1874, 1875]
+776  /KK/2c/Q/c4 , player 0 , infoset: 112 , actions: ['4', 'c', 'f'] , children: [775, 1876, 1877]
+777  /KK/2c/Q/c , player 1 , infoset: 95 , actions: ['4', 'c'] , children: [776, 1878]
+778  /KK/2c/Q/ , player 0 , infoset: 110 , actions: ['4', 'c'] , children: [774, 777]
+779  /KK/2 , player 1 , infoset: 81 , actions: ['2', 'c', 'f'] , children: [766, 41, 1879]
+780  /KK/c22c/J/44 , player 0 , infoset: 118 , actions: ['c', 'f'] , children: [1880, 1881]
+781  /KK/c22c/J/4 , player 1 , infoset: 102 , actions: ['4', 'c', 'f'] , children: [780, 1882, 1883]
+782  /KK/c22c/J/c44 , player 1 , infoset: 104 , actions: ['c', 'f'] , children: [1884, 1885]
+783  /KK/c22c/J/c4 , player 0 , infoset: 119 , actions: ['4', 'c', 'f'] , children: [782, 1886, 1887]
+784  /KK/c22c/J/c , player 1 , infoset: 103 , actions: ['4', 'c'] , children: [783, 1888]
+785  /KK/c22c/J/ , player 0 , infoset: 117 , actions: ['4', 'c'] , children: [781, 784]
+786  /KK/c22c/Q/44 , player 0 , infoset: 121 , actions: ['c', 'f'] , children: [1889, 1890]
+787  /KK/c22c/Q/4 , player 1 , infoset: 105 , actions: ['4', 'c', 'f'] , children: [786, 1891, 1892]
+788  /KK/c22c/Q/c44 , player 1 , infoset: 107 , actions: ['c', 'f'] , children: [1893, 1894]
+789  /KK/c22c/Q/c4 , player 0 , infoset: 122 , actions: ['4', 'c', 'f'] , children: [788, 1895, 1896]
+790  /KK/c22c/Q/c , player 1 , infoset: 106 , actions: ['4', 'c'] , children: [789, 1897]
+791  /KK/c22c/Q/ , player 0 , infoset: 120 , actions: ['4', 'c'] , children: [787, 790]
+792  /KK/c22 , player 1 , infoset: 101 , actions: ['c', 'f'] , children: [42, 1898]
+793  /KK/c2c/J/44 , player 0 , infoset: 127 , actions: ['c', 'f'] , children: [1899, 1900]
+794  /KK/c2c/J/4 , player 1 , infoset: 111 , actions: ['4', 'c', 'f'] , children: [793, 1901, 1902]
+795  /KK/c2c/J/c44 , player 1 , infoset: 113 , actions: ['c', 'f'] , children: [1903, 1904]
+796  /KK/c2c/J/c4 , player 0 , infoset: 128 , actions: ['4', 'c', 'f'] , children: [795, 1905, 1906]
+797  /KK/c2c/J/c , player 1 , infoset: 112 , actions: ['4', 'c'] , children: [796, 1907]
+798  /KK/c2c/J/ , player 0 , infoset: 126 , actions: ['4', 'c'] , children: [794, 797]
+799  /KK/c2c/Q/44 , player 0 , infoset: 130 , actions: ['c', 'f'] , children: [1908, 1909]
+800  /KK/c2c/Q/4 , player 1 , infoset: 114 , actions: ['4', 'c', 'f'] , children: [799, 1910, 1911]
+801  /KK/c2c/Q/c44 , player 1 , infoset: 116 , actions: ['c', 'f'] , children: [1912, 1913]
+802  /KK/c2c/Q/c4 , player 0 , infoset: 131 , actions: ['4', 'c', 'f'] , children: [801, 1914, 1915]
+803  /KK/c2c/Q/c , player 1 , infoset: 115 , actions: ['4', 'c'] , children: [802, 1916]
+804  /KK/c2c/Q/ , player 0 , infoset: 129 , actions: ['4', 'c'] , children: [800, 803]
+805  /KK/c2 , player 0 , infoset: 116 , actions: ['2', 'c', 'f'] , children: [792, 43, 1917]
+806  /KK/cc/J/44 , player 0 , infoset: 136 , actions: ['c', 'f'] , children: [1918, 1919]
+807  /KK/cc/J/4 , player 1 , infoset: 120 , actions: ['4', 'c', 'f'] , children: [806, 1920, 1921]
+808  /KK/cc/J/c44 , player 1 , infoset: 122 , actions: ['c', 'f'] , children: [1922, 1923]
+809  /KK/cc/J/c4 , player 0 , infoset: 137 , actions: ['4', 'c', 'f'] , children: [808, 1924, 1925]
+810  /KK/cc/J/c , player 1 , infoset: 121 , actions: ['4', 'c'] , children: [809, 1926]
+811  /KK/cc/J/ , player 0 , infoset: 135 , actions: ['4', 'c'] , children: [807, 810]
+812  /KK/cc/Q/44 , player 0 , infoset: 139 , actions: ['c', 'f'] , children: [1927, 1928]
+813  /KK/cc/Q/4 , player 1 , infoset: 123 , actions: ['4', 'c', 'f'] , children: [812, 1929, 1930]
+814  /KK/cc/Q/c44 , player 1 , infoset: 125 , actions: ['c', 'f'] , children: [1931, 1932]
+815  /KK/cc/Q/c4 , player 0 , infoset: 140 , actions: ['4', 'c', 'f'] , children: [814, 1933, 1934]
+816  /KK/cc/Q/c , player 1 , infoset: 124 , actions: ['4', 'c'] , children: [815, 1935]
+817  /KK/cc/Q/ , player 0 , infoset: 138 , actions: ['4', 'c'] , children: [813, 816]
+818  /KK/c , player 1 , infoset: 100 , actions: ['2', 'c'] , children: [805, 44]
+819  /KK/ , player 0 , infoset: 96 , actions: ['2', 'c'] , children: [779, 818]
+820  /JJ/22c/Q/44c leaf, utility: 0
+821  /JJ/22c/Q/44f leaf, utility: -9
+822  /JJ/22c/Q/4c leaf, utility: 0
+823  /JJ/22c/Q/4f leaf, utility: 5
+824  /JJ/22c/Q/c44c leaf, utility: 0
+825  /JJ/22c/Q/c44f leaf, utility: 9
+826  /JJ/22c/Q/c4c leaf, utility: 0
+827  /JJ/22c/Q/c4f leaf, utility: -5
+828  /JJ/22c/Q/cc leaf, utility: 0
+829  /JJ/22c/K/44c leaf, utility: 0
+830  /JJ/22c/K/44f leaf, utility: -9
+831  /JJ/22c/K/4c leaf, utility: 0
+832  /JJ/22c/K/4f leaf, utility: 5
+833  /JJ/22c/K/c44c leaf, utility: 0
+834  /JJ/22c/K/c44f leaf, utility: 9
+835  /JJ/22c/K/c4c leaf, utility: 0
+836  /JJ/22c/K/c4f leaf, utility: -5
+837  /JJ/22c/K/cc leaf, utility: 0
+838  /JJ/22f leaf, utility: -3
+839  /JJ/2c/Q/44c leaf, utility: 0
+840  /JJ/2c/Q/44f leaf, utility: -7
+841  /JJ/2c/Q/4c leaf, utility: 0
+842  /JJ/2c/Q/4f leaf, utility: 3
+843  /JJ/2c/Q/c44c leaf, utility: 0
+844  /JJ/2c/Q/c44f leaf, utility: 7
+845  /JJ/2c/Q/c4c leaf, utility: 0
+846  /JJ/2c/Q/c4f leaf, utility: -3
+847  /JJ/2c/Q/cc leaf, utility: 0
+848  /JJ/2c/K/44c leaf, utility: 0
+849  /JJ/2c/K/44f leaf, utility: -7
+850  /JJ/2c/K/4c leaf, utility: 0
+851  /JJ/2c/K/4f leaf, utility: 3
+852  /JJ/2c/K/c44c leaf, utility: 0
+853  /JJ/2c/K/c44f leaf, utility: 7
+854  /JJ/2c/K/c4c leaf, utility: 0
+855  /JJ/2c/K/c4f leaf, utility: -3
+856  /JJ/2c/K/cc leaf, utility: 0
+857  /JJ/2f leaf, utility: 1
+858  /JJ/c22c/Q/44c leaf, utility: 0
+859  /JJ/c22c/Q/44f leaf, utility: -9
+860  /JJ/c22c/Q/4c leaf, utility: 0
+861  /JJ/c22c/Q/4f leaf, utility: 5
+862  /JJ/c22c/Q/c44c leaf, utility: 0
+863  /JJ/c22c/Q/c44f leaf, utility: 9
+864  /JJ/c22c/Q/c4c leaf, utility: 0
+865  /JJ/c22c/Q/c4f leaf, utility: -5
+866  /JJ/c22c/Q/cc leaf, utility: 0
+867  /JJ/c22c/K/44c leaf, utility: 0
+868  /JJ/c22c/K/44f leaf, utility: -9
+869  /JJ/c22c/K/4c leaf, utility: 0
+870  /JJ/c22c/K/4f leaf, utility: 5
+871  /JJ/c22c/K/c44c leaf, utility: 0
+872  /JJ/c22c/K/c44f leaf, utility: 9
+873  /JJ/c22c/K/c4c leaf, utility: 0
+874  /JJ/c22c/K/c4f leaf, utility: -5
+875  /JJ/c22c/K/cc leaf, utility: 0
+876  /JJ/c22f leaf, utility: 3
+877  /JJ/c2c/Q/44c leaf, utility: 0
+878  /JJ/c2c/Q/44f leaf, utility: -7
+879  /JJ/c2c/Q/4c leaf, utility: 0
+880  /JJ/c2c/Q/4f leaf, utility: 3
+881  /JJ/c2c/Q/c44c leaf, utility: 0
+882  /JJ/c2c/Q/c44f leaf, utility: 7
+883  /JJ/c2c/Q/c4c leaf, utility: 0
+884  /JJ/c2c/Q/c4f leaf, utility: -3
+885  /JJ/c2c/Q/cc leaf, utility: 0
+886  /JJ/c2c/K/44c leaf, utility: 0
+887  /JJ/c2c/K/44f leaf, utility: -7
+888  /JJ/c2c/K/4c leaf, utility: 0
+889  /JJ/c2c/K/4f leaf, utility: 3
+890  /JJ/c2c/K/c44c leaf, utility: 0
+891  /JJ/c2c/K/c44f leaf, utility: 7
+892  /JJ/c2c/K/c4c leaf, utility: 0
+893  /JJ/c2c/K/c4f leaf, utility: -3
+894  /JJ/c2c/K/cc leaf, utility: 0
+895  /JJ/c2f leaf, utility: -1
+896  /JJ/cc/Q/44c leaf, utility: 0
+897  /JJ/cc/Q/44f leaf, utility: -5
+898  /JJ/cc/Q/4c leaf, utility: 0
+899  /JJ/cc/Q/4f leaf, utility: 1
+900  /JJ/cc/Q/c44c leaf, utility: 0
+901  /JJ/cc/Q/c44f leaf, utility: 5
+902  /JJ/cc/Q/c4c leaf, utility: 0
+903  /JJ/cc/Q/c4f leaf, utility: -1
+904  /JJ/cc/Q/cc leaf, utility: 0
+905  /JJ/cc/K/44c leaf, utility: 0
+906  /JJ/cc/K/44f leaf, utility: -5
+907  /JJ/cc/K/4c leaf, utility: 0
+908  /JJ/cc/K/4f leaf, utility: 1
+909  /JJ/cc/K/c44c leaf, utility: 0
+910  /JJ/cc/K/c44f leaf, utility: 5
+911  /JJ/cc/K/c4c leaf, utility: 0
+912  /JJ/cc/K/c4f leaf, utility: -1
+913  /JJ/cc/K/cc leaf, utility: 0
+914  /JQ/22c/J/44c leaf, utility: 13
+915  /JQ/22c/J/44f leaf, utility: -9
+916  /JQ/22c/J/4c leaf, utility: 9
+917  /JQ/22c/J/4f leaf, utility: 5
+918  /JQ/22c/J/c44c leaf, utility: 13
+919  /JQ/22c/J/c44f leaf, utility: 9
+920  /JQ/22c/J/c4c leaf, utility: 9
+921  /JQ/22c/J/c4f leaf, utility: -5
+922  /JQ/22c/J/cc leaf, utility: 5
+923  /JQ/22c/Q/44c leaf, utility: -13
+924  /JQ/22c/Q/44f leaf, utility: -9
+925  /JQ/22c/Q/4c leaf, utility: -9
+926  /JQ/22c/Q/4f leaf, utility: 5
+927  /JQ/22c/Q/c44c leaf, utility: -13
+928  /JQ/22c/Q/c44f leaf, utility: 9
+929  /JQ/22c/Q/c4c leaf, utility: -9
+930  /JQ/22c/Q/c4f leaf, utility: -5
+931  /JQ/22c/Q/cc leaf, utility: -5
+932  /JQ/22c/K/44c leaf, utility: -13
+933  /JQ/22c/K/44f leaf, utility: -9
+934  /JQ/22c/K/4c leaf, utility: -9
+935  /JQ/22c/K/4f leaf, utility: 5
+936  /JQ/22c/K/c44c leaf, utility: -13
+937  /JQ/22c/K/c44f leaf, utility: 9
+938  /JQ/22c/K/c4c leaf, utility: -9
+939  /JQ/22c/K/c4f leaf, utility: -5
+940  /JQ/22c/K/cc leaf, utility: -5
+941  /JQ/22f leaf, utility: -3
+942  /JQ/2c/J/44c leaf, utility: 11
+943  /JQ/2c/J/44f leaf, utility: -7
+944  /JQ/2c/J/4c leaf, utility: 7
+945  /JQ/2c/J/4f leaf, utility: 3
+946  /JQ/2c/J/c44c leaf, utility: 11
+947  /JQ/2c/J/c44f leaf, utility: 7
+948  /JQ/2c/J/c4c leaf, utility: 7
+949  /JQ/2c/J/c4f leaf, utility: -3
+950  /JQ/2c/J/cc leaf, utility: 3
+951  /JQ/2c/Q/44c leaf, utility: -11
+952  /JQ/2c/Q/44f leaf, utility: -7
+953  /JQ/2c/Q/4c leaf, utility: -7
+954  /JQ/2c/Q/4f leaf, utility: 3
+955  /JQ/2c/Q/c44c leaf, utility: -11
+956  /JQ/2c/Q/c44f leaf, utility: 7
+957  /JQ/2c/Q/c4c leaf, utility: -7
+958  /JQ/2c/Q/c4f leaf, utility: -3
+959  /JQ/2c/Q/cc leaf, utility: -3
+960  /JQ/2c/K/44c leaf, utility: -11
+961  /JQ/2c/K/44f leaf, utility: -7
+962  /JQ/2c/K/4c leaf, utility: -7
+963  /JQ/2c/K/4f leaf, utility: 3
+964  /JQ/2c/K/c44c leaf, utility: -11
+965  /JQ/2c/K/c44f leaf, utility: 7
+966  /JQ/2c/K/c4c leaf, utility: -7
+967  /JQ/2c/K/c4f leaf, utility: -3
+968  /JQ/2c/K/cc leaf, utility: -3
+969  /JQ/2f leaf, utility: 1
+970  /JQ/c22c/J/44c leaf, utility: 13
+971  /JQ/c22c/J/44f leaf, utility: -9
+972  /JQ/c22c/J/4c leaf, utility: 9
+973  /JQ/c22c/J/4f leaf, utility: 5
+974  /JQ/c22c/J/c44c leaf, utility: 13
+975  /JQ/c22c/J/c44f leaf, utility: 9
+976  /JQ/c22c/J/c4c leaf, utility: 9
+977  /JQ/c22c/J/c4f leaf, utility: -5
+978  /JQ/c22c/J/cc leaf, utility: 5
+979  /JQ/c22c/Q/44c leaf, utility: -13
+980  /JQ/c22c/Q/44f leaf, utility: -9
+981  /JQ/c22c/Q/4c leaf, utility: -9
+982  /JQ/c22c/Q/4f leaf, utility: 5
+983  /JQ/c22c/Q/c44c leaf, utility: -13
+984  /JQ/c22c/Q/c44f leaf, utility: 9
+985  /JQ/c22c/Q/c4c leaf, utility: -9
+986  /JQ/c22c/Q/c4f leaf, utility: -5
+987  /JQ/c22c/Q/cc leaf, utility: -5
+988  /JQ/c22c/K/44c leaf, utility: -13
+989  /JQ/c22c/K/44f leaf, utility: -9
+990  /JQ/c22c/K/4c leaf, utility: -9
+991  /JQ/c22c/K/4f leaf, utility: 5
+992  /JQ/c22c/K/c44c leaf, utility: -13
+993  /JQ/c22c/K/c44f leaf, utility: 9
+994  /JQ/c22c/K/c4c leaf, utility: -9
+995  /JQ/c22c/K/c4f leaf, utility: -5
+996  /JQ/c22c/K/cc leaf, utility: -5
+997  /JQ/c22f leaf, utility: 3
+998  /JQ/c2c/J/44c leaf, utility: 11
+999  /JQ/c2c/J/44f leaf, utility: -7
+1000  /JQ/c2c/J/4c leaf, utility: 7
+1001  /JQ/c2c/J/4f leaf, utility: 3
+1002  /JQ/c2c/J/c44c leaf, utility: 11
+1003  /JQ/c2c/J/c44f leaf, utility: 7
+1004  /JQ/c2c/J/c4c leaf, utility: 7
+1005  /JQ/c2c/J/c4f leaf, utility: -3
+1006  /JQ/c2c/J/cc leaf, utility: 3
+1007  /JQ/c2c/Q/44c leaf, utility: -11
+1008  /JQ/c2c/Q/44f leaf, utility: -7
+1009  /JQ/c2c/Q/4c leaf, utility: -7
+1010  /JQ/c2c/Q/4f leaf, utility: 3
+1011  /JQ/c2c/Q/c44c leaf, utility: -11
+1012  /JQ/c2c/Q/c44f leaf, utility: 7
+1013  /JQ/c2c/Q/c4c leaf, utility: -7
+1014  /JQ/c2c/Q/c4f leaf, utility: -3
+1015  /JQ/c2c/Q/cc leaf, utility: -3
+1016  /JQ/c2c/K/44c leaf, utility: -11
+1017  /JQ/c2c/K/44f leaf, utility: -7
+1018  /JQ/c2c/K/4c leaf, utility: -7
+1019  /JQ/c2c/K/4f leaf, utility: 3
+1020  /JQ/c2c/K/c44c leaf, utility: -11
+1021  /JQ/c2c/K/c44f leaf, utility: 7
+1022  /JQ/c2c/K/c4c leaf, utility: -7
+1023  /JQ/c2c/K/c4f leaf, utility: -3
+1024  /JQ/c2c/K/cc leaf, utility: -3
+1025  /JQ/c2f leaf, utility: -1
+1026  /JQ/cc/J/44c leaf, utility: 9
+1027  /JQ/cc/J/44f leaf, utility: -5
+1028  /JQ/cc/J/4c leaf, utility: 5
+1029  /JQ/cc/J/4f leaf, utility: 1
+1030  /JQ/cc/J/c44c leaf, utility: 9
+1031  /JQ/cc/J/c44f leaf, utility: 5
+1032  /JQ/cc/J/c4c leaf, utility: 5
+1033  /JQ/cc/J/c4f leaf, utility: -1
+1034  /JQ/cc/J/cc leaf, utility: 1
+1035  /JQ/cc/Q/44c leaf, utility: -9
+1036  /JQ/cc/Q/44f leaf, utility: -5
+1037  /JQ/cc/Q/4c leaf, utility: -5
+1038  /JQ/cc/Q/4f leaf, utility: 1
+1039  /JQ/cc/Q/c44c leaf, utility: -9
+1040  /JQ/cc/Q/c44f leaf, utility: 5
+1041  /JQ/cc/Q/c4c leaf, utility: -5
+1042  /JQ/cc/Q/c4f leaf, utility: -1
+1043  /JQ/cc/Q/cc leaf, utility: -1
+1044  /JQ/cc/K/44c leaf, utility: -9
+1045  /JQ/cc/K/44f leaf, utility: -5
+1046  /JQ/cc/K/4c leaf, utility: -5
+1047  /JQ/cc/K/4f leaf, utility: 1
+1048  /JQ/cc/K/c44c leaf, utility: -9
+1049  /JQ/cc/K/c44f leaf, utility: 5
+1050  /JQ/cc/K/c4c leaf, utility: -5
+1051  /JQ/cc/K/c4f leaf, utility: -1
+1052  /JQ/cc/K/cc leaf, utility: -1
+1053  /JK/22c/J/44c leaf, utility: 13
+1054  /JK/22c/J/44f leaf, utility: -9
+1055  /JK/22c/J/4c leaf, utility: 9
+1056  /JK/22c/J/4f leaf, utility: 5
+1057  /JK/22c/J/c44c leaf, utility: 13
+1058  /JK/22c/J/c44f leaf, utility: 9
+1059  /JK/22c/J/c4c leaf, utility: 9
+1060  /JK/22c/J/c4f leaf, utility: -5
+1061  /JK/22c/J/cc leaf, utility: 5
+1062  /JK/22c/Q/44c leaf, utility: -13
+1063  /JK/22c/Q/44f leaf, utility: -9
+1064  /JK/22c/Q/4c leaf, utility: -9
+1065  /JK/22c/Q/4f leaf, utility: 5
+1066  /JK/22c/Q/c44c leaf, utility: -13
+1067  /JK/22c/Q/c44f leaf, utility: 9
+1068  /JK/22c/Q/c4c leaf, utility: -9
+1069  /JK/22c/Q/c4f leaf, utility: -5
+1070  /JK/22c/Q/cc leaf, utility: -5
+1071  /JK/22c/K/44c leaf, utility: -13
+1072  /JK/22c/K/44f leaf, utility: -9
+1073  /JK/22c/K/4c leaf, utility: -9
+1074  /JK/22c/K/4f leaf, utility: 5
+1075  /JK/22c/K/c44c leaf, utility: -13
+1076  /JK/22c/K/c44f leaf, utility: 9
+1077  /JK/22c/K/c4c leaf, utility: -9
+1078  /JK/22c/K/c4f leaf, utility: -5
+1079  /JK/22c/K/cc leaf, utility: -5
+1080  /JK/22f leaf, utility: -3
+1081  /JK/2c/J/44c leaf, utility: 11
+1082  /JK/2c/J/44f leaf, utility: -7
+1083  /JK/2c/J/4c leaf, utility: 7
+1084  /JK/2c/J/4f leaf, utility: 3
+1085  /JK/2c/J/c44c leaf, utility: 11
+1086  /JK/2c/J/c44f leaf, utility: 7
+1087  /JK/2c/J/c4c leaf, utility: 7
+1088  /JK/2c/J/c4f leaf, utility: -3
+1089  /JK/2c/J/cc leaf, utility: 3
+1090  /JK/2c/Q/44c leaf, utility: -11
+1091  /JK/2c/Q/44f leaf, utility: -7
+1092  /JK/2c/Q/4c leaf, utility: -7
+1093  /JK/2c/Q/4f leaf, utility: 3
+1094  /JK/2c/Q/c44c leaf, utility: -11
+1095  /JK/2c/Q/c44f leaf, utility: 7
+1096  /JK/2c/Q/c4c leaf, utility: -7
+1097  /JK/2c/Q/c4f leaf, utility: -3
+1098  /JK/2c/Q/cc leaf, utility: -3
+1099  /JK/2c/K/44c leaf, utility: -11
+1100  /JK/2c/K/44f leaf, utility: -7
+1101  /JK/2c/K/4c leaf, utility: -7
+1102  /JK/2c/K/4f leaf, utility: 3
+1103  /JK/2c/K/c44c leaf, utility: -11
+1104  /JK/2c/K/c44f leaf, utility: 7
+1105  /JK/2c/K/c4c leaf, utility: -7
+1106  /JK/2c/K/c4f leaf, utility: -3
+1107  /JK/2c/K/cc leaf, utility: -3
+1108  /JK/2f leaf, utility: 1
+1109  /JK/c22c/J/44c leaf, utility: 13
+1110  /JK/c22c/J/44f leaf, utility: -9
+1111  /JK/c22c/J/4c leaf, utility: 9
+1112  /JK/c22c/J/4f leaf, utility: 5
+1113  /JK/c22c/J/c44c leaf, utility: 13
+1114  /JK/c22c/J/c44f leaf, utility: 9
+1115  /JK/c22c/J/c4c leaf, utility: 9
+1116  /JK/c22c/J/c4f leaf, utility: -5
+1117  /JK/c22c/J/cc leaf, utility: 5
+1118  /JK/c22c/Q/44c leaf, utility: -13
+1119  /JK/c22c/Q/44f leaf, utility: -9
+1120  /JK/c22c/Q/4c leaf, utility: -9
+1121  /JK/c22c/Q/4f leaf, utility: 5
+1122  /JK/c22c/Q/c44c leaf, utility: -13
+1123  /JK/c22c/Q/c44f leaf, utility: 9
+1124  /JK/c22c/Q/c4c leaf, utility: -9
+1125  /JK/c22c/Q/c4f leaf, utility: -5
+1126  /JK/c22c/Q/cc leaf, utility: -5
+1127  /JK/c22c/K/44c leaf, utility: -13
+1128  /JK/c22c/K/44f leaf, utility: -9
+1129  /JK/c22c/K/4c leaf, utility: -9
+1130  /JK/c22c/K/4f leaf, utility: 5
+1131  /JK/c22c/K/c44c leaf, utility: -13
+1132  /JK/c22c/K/c44f leaf, utility: 9
+1133  /JK/c22c/K/c4c leaf, utility: -9
+1134  /JK/c22c/K/c4f leaf, utility: -5
+1135  /JK/c22c/K/cc leaf, utility: -5
+1136  /JK/c22f leaf, utility: 3
+1137  /JK/c2c/J/44c leaf, utility: 11
+1138  /JK/c2c/J/44f leaf, utility: -7
+1139  /JK/c2c/J/4c leaf, utility: 7
+1140  /JK/c2c/J/4f leaf, utility: 3
+1141  /JK/c2c/J/c44c leaf, utility: 11
+1142  /JK/c2c/J/c44f leaf, utility: 7
+1143  /JK/c2c/J/c4c leaf, utility: 7
+1144  /JK/c2c/J/c4f leaf, utility: -3
+1145  /JK/c2c/J/cc leaf, utility: 3
+1146  /JK/c2c/Q/44c leaf, utility: -11
+1147  /JK/c2c/Q/44f leaf, utility: -7
+1148  /JK/c2c/Q/4c leaf, utility: -7
+1149  /JK/c2c/Q/4f leaf, utility: 3
+1150  /JK/c2c/Q/c44c leaf, utility: -11
+1151  /JK/c2c/Q/c44f leaf, utility: 7
+1152  /JK/c2c/Q/c4c leaf, utility: -7
+1153  /JK/c2c/Q/c4f leaf, utility: -3
+1154  /JK/c2c/Q/cc leaf, utility: -3
+1155  /JK/c2c/K/44c leaf, utility: -11
+1156  /JK/c2c/K/44f leaf, utility: -7
+1157  /JK/c2c/K/4c leaf, utility: -7
+1158  /JK/c2c/K/4f leaf, utility: 3
+1159  /JK/c2c/K/c44c leaf, utility: -11
+1160  /JK/c2c/K/c44f leaf, utility: 7
+1161  /JK/c2c/K/c4c leaf, utility: -7
+1162  /JK/c2c/K/c4f leaf, utility: -3
+1163  /JK/c2c/K/cc leaf, utility: -3
+1164  /JK/c2f leaf, utility: -1
+1165  /JK/cc/J/44c leaf, utility: 9
+1166  /JK/cc/J/44f leaf, utility: -5
+1167  /JK/cc/J/4c leaf, utility: 5
+1168  /JK/cc/J/4f leaf, utility: 1
+1169  /JK/cc/J/c44c leaf, utility: 9
+1170  /JK/cc/J/c44f leaf, utility: 5
+1171  /JK/cc/J/c4c leaf, utility: 5
+1172  /JK/cc/J/c4f leaf, utility: -1
+1173  /JK/cc/J/cc leaf, utility: 1
+1174  /JK/cc/Q/44c leaf, utility: -9
+1175  /JK/cc/Q/44f leaf, utility: -5
+1176  /JK/cc/Q/4c leaf, utility: -5
+1177  /JK/cc/Q/4f leaf, utility: 1
+1178  /JK/cc/Q/c44c leaf, utility: -9
+1179  /JK/cc/Q/c44f leaf, utility: 5
+1180  /JK/cc/Q/c4c leaf, utility: -5
+1181  /JK/cc/Q/c4f leaf, utility: -1
+1182  /JK/cc/Q/cc leaf, utility: -1
+1183  /JK/cc/K/44c leaf, utility: -9
+1184  /JK/cc/K/44f leaf, utility: -5
+1185  /JK/cc/K/4c leaf, utility: -5
+1186  /JK/cc/K/4f leaf, utility: 1
+1187  /JK/cc/K/c44c leaf, utility: -9
+1188  /JK/cc/K/c44f leaf, utility: 5
+1189  /JK/cc/K/c4c leaf, utility: -5
+1190  /JK/cc/K/c4f leaf, utility: -1
+1191  /JK/cc/K/cc leaf, utility: -1
+1192  /QJ/22c/J/44c leaf, utility: -13
+1193  /QJ/22c/J/44f leaf, utility: -9
+1194  /QJ/22c/J/4c leaf, utility: -9
+1195  /QJ/22c/J/4f leaf, utility: 5
+1196  /QJ/22c/J/c44c leaf, utility: -13
+1197  /QJ/22c/J/c44f leaf, utility: 9
+1198  /QJ/22c/J/c4c leaf, utility: -9
+1199  /QJ/22c/J/c4f leaf, utility: -5
+1200  /QJ/22c/J/cc leaf, utility: -5
+1201  /QJ/22c/Q/44c leaf, utility: 13
+1202  /QJ/22c/Q/44f leaf, utility: -9
+1203  /QJ/22c/Q/4c leaf, utility: 9
+1204  /QJ/22c/Q/4f leaf, utility: 5
+1205  /QJ/22c/Q/c44c leaf, utility: 13
+1206  /QJ/22c/Q/c44f leaf, utility: 9
+1207  /QJ/22c/Q/c4c leaf, utility: 9
+1208  /QJ/22c/Q/c4f leaf, utility: -5
+1209  /QJ/22c/Q/cc leaf, utility: 5
+1210  /QJ/22c/K/44c leaf, utility: 13
+1211  /QJ/22c/K/44f leaf, utility: -9
+1212  /QJ/22c/K/4c leaf, utility: 9
+1213  /QJ/22c/K/4f leaf, utility: 5
+1214  /QJ/22c/K/c44c leaf, utility: 13
+1215  /QJ/22c/K/c44f leaf, utility: 9
+1216  /QJ/22c/K/c4c leaf, utility: 9
+1217  /QJ/22c/K/c4f leaf, utility: -5
+1218  /QJ/22c/K/cc leaf, utility: 5
+1219  /QJ/22f leaf, utility: -3
+1220  /QJ/2c/J/44c leaf, utility: -11
+1221  /QJ/2c/J/44f leaf, utility: -7
+1222  /QJ/2c/J/4c leaf, utility: -7
+1223  /QJ/2c/J/4f leaf, utility: 3
+1224  /QJ/2c/J/c44c leaf, utility: -11
+1225  /QJ/2c/J/c44f leaf, utility: 7
+1226  /QJ/2c/J/c4c leaf, utility: -7
+1227  /QJ/2c/J/c4f leaf, utility: -3
+1228  /QJ/2c/J/cc leaf, utility: -3
+1229  /QJ/2c/Q/44c leaf, utility: 11
+1230  /QJ/2c/Q/44f leaf, utility: -7
+1231  /QJ/2c/Q/4c leaf, utility: 7
+1232  /QJ/2c/Q/4f leaf, utility: 3
+1233  /QJ/2c/Q/c44c leaf, utility: 11
+1234  /QJ/2c/Q/c44f leaf, utility: 7
+1235  /QJ/2c/Q/c4c leaf, utility: 7
+1236  /QJ/2c/Q/c4f leaf, utility: -3
+1237  /QJ/2c/Q/cc leaf, utility: 3
+1238  /QJ/2c/K/44c leaf, utility: 11
+1239  /QJ/2c/K/44f leaf, utility: -7
+1240  /QJ/2c/K/4c leaf, utility: 7
+1241  /QJ/2c/K/4f leaf, utility: 3
+1242  /QJ/2c/K/c44c leaf, utility: 11
+1243  /QJ/2c/K/c44f leaf, utility: 7
+1244  /QJ/2c/K/c4c leaf, utility: 7
+1245  /QJ/2c/K/c4f leaf, utility: -3
+1246  /QJ/2c/K/cc leaf, utility: 3
+1247  /QJ/2f leaf, utility: 1
+1248  /QJ/c22c/J/44c leaf, utility: -13
+1249  /QJ/c22c/J/44f leaf, utility: -9
+1250  /QJ/c22c/J/4c leaf, utility: -9
+1251  /QJ/c22c/J/4f leaf, utility: 5
+1252  /QJ/c22c/J/c44c leaf, utility: -13
+1253  /QJ/c22c/J/c44f leaf, utility: 9
+1254  /QJ/c22c/J/c4c leaf, utility: -9
+1255  /QJ/c22c/J/c4f leaf, utility: -5
+1256  /QJ/c22c/J/cc leaf, utility: -5
+1257  /QJ/c22c/Q/44c leaf, utility: 13
+1258  /QJ/c22c/Q/44f leaf, utility: -9
+1259  /QJ/c22c/Q/4c leaf, utility: 9
+1260  /QJ/c22c/Q/4f leaf, utility: 5
+1261  /QJ/c22c/Q/c44c leaf, utility: 13
+1262  /QJ/c22c/Q/c44f leaf, utility: 9
+1263  /QJ/c22c/Q/c4c leaf, utility: 9
+1264  /QJ/c22c/Q/c4f leaf, utility: -5
+1265  /QJ/c22c/Q/cc leaf, utility: 5
+1266  /QJ/c22c/K/44c leaf, utility: 13
+1267  /QJ/c22c/K/44f leaf, utility: -9
+1268  /QJ/c22c/K/4c leaf, utility: 9
+1269  /QJ/c22c/K/4f leaf, utility: 5
+1270  /QJ/c22c/K/c44c leaf, utility: 13
+1271  /QJ/c22c/K/c44f leaf, utility: 9
+1272  /QJ/c22c/K/c4c leaf, utility: 9
+1273  /QJ/c22c/K/c4f leaf, utility: -5
+1274  /QJ/c22c/K/cc leaf, utility: 5
+1275  /QJ/c22f leaf, utility: 3
+1276  /QJ/c2c/J/44c leaf, utility: -11
+1277  /QJ/c2c/J/44f leaf, utility: -7
+1278  /QJ/c2c/J/4c leaf, utility: -7
+1279  /QJ/c2c/J/4f leaf, utility: 3
+1280  /QJ/c2c/J/c44c leaf, utility: -11
+1281  /QJ/c2c/J/c44f leaf, utility: 7
+1282  /QJ/c2c/J/c4c leaf, utility: -7
+1283  /QJ/c2c/J/c4f leaf, utility: -3
+1284  /QJ/c2c/J/cc leaf, utility: -3
+1285  /QJ/c2c/Q/44c leaf, utility: 11
+1286  /QJ/c2c/Q/44f leaf, utility: -7
+1287  /QJ/c2c/Q/4c leaf, utility: 7
+1288  /QJ/c2c/Q/4f leaf, utility: 3
+1289  /QJ/c2c/Q/c44c leaf, utility: 11
+1290  /QJ/c2c/Q/c44f leaf, utility: 7
+1291  /QJ/c2c/Q/c4c leaf, utility: 7
+1292  /QJ/c2c/Q/c4f leaf, utility: -3
+1293  /QJ/c2c/Q/cc leaf, utility: 3
+1294  /QJ/c2c/K/44c leaf, utility: 11
+1295  /QJ/c2c/K/44f leaf, utility: -7
+1296  /QJ/c2c/K/4c leaf, utility: 7
+1297  /QJ/c2c/K/4f leaf, utility: 3
+1298  /QJ/c2c/K/c44c leaf, utility: 11
+1299  /QJ/c2c/K/c44f leaf, utility: 7
+1300  /QJ/c2c/K/c4c leaf, utility: 7
+1301  /QJ/c2c/K/c4f leaf, utility: -3
+1302  /QJ/c2c/K/cc leaf, utility: 3
+1303  /QJ/c2f leaf, utility: -1
+1304  /QJ/cc/J/44c leaf, utility: -9
+1305  /QJ/cc/J/44f leaf, utility: -5
+1306  /QJ/cc/J/4c leaf, utility: -5
+1307  /QJ/cc/J/4f leaf, utility: 1
+1308  /QJ/cc/J/c44c leaf, utility: -9
+1309  /QJ/cc/J/c44f leaf, utility: 5
+1310  /QJ/cc/J/c4c leaf, utility: -5
+1311  /QJ/cc/J/c4f leaf, utility: -1
+1312  /QJ/cc/J/cc leaf, utility: -1
+1313  /QJ/cc/Q/44c leaf, utility: 9
+1314  /QJ/cc/Q/44f leaf, utility: -5
+1315  /QJ/cc/Q/4c leaf, utility: 5
+1316  /QJ/cc/Q/4f leaf, utility: 1
+1317  /QJ/cc/Q/c44c leaf, utility: 9
+1318  /QJ/cc/Q/c44f leaf, utility: 5
+1319  /QJ/cc/Q/c4c leaf, utility: 5
+1320  /QJ/cc/Q/c4f leaf, utility: -1
+1321  /QJ/cc/Q/cc leaf, utility: 1
+1322  /QJ/cc/K/44c leaf, utility: 9
+1323  /QJ/cc/K/44f leaf, utility: -5
+1324  /QJ/cc/K/4c leaf, utility: 5
+1325  /QJ/cc/K/4f leaf, utility: 1
+1326  /QJ/cc/K/c44c leaf, utility: 9
+1327  /QJ/cc/K/c44f leaf, utility: 5
+1328  /QJ/cc/K/c4c leaf, utility: 5
+1329  /QJ/cc/K/c4f leaf, utility: -1
+1330  /QJ/cc/K/cc leaf, utility: 1
+1331  /QQ/22c/J/44c leaf, utility: 0
+1332  /QQ/22c/J/44f leaf, utility: -9
+1333  /QQ/22c/J/4c leaf, utility: 0
+1334  /QQ/22c/J/4f leaf, utility: 5
+1335  /QQ/22c/J/c44c leaf, utility: 0
+1336  /QQ/22c/J/c44f leaf, utility: 9
+1337  /QQ/22c/J/c4c leaf, utility: 0
+1338  /QQ/22c/J/c4f leaf, utility: -5
+1339  /QQ/22c/J/cc leaf, utility: 0
+1340  /QQ/22c/K/44c leaf, utility: 0
+1341  /QQ/22c/K/44f leaf, utility: -9
+1342  /QQ/22c/K/4c leaf, utility: 0
+1343  /QQ/22c/K/4f leaf, utility: 5
+1344  /QQ/22c/K/c44c leaf, utility: 0
+1345  /QQ/22c/K/c44f leaf, utility: 9
+1346  /QQ/22c/K/c4c leaf, utility: 0
+1347  /QQ/22c/K/c4f leaf, utility: -5
+1348  /QQ/22c/K/cc leaf, utility: 0
+1349  /QQ/22f leaf, utility: -3
+1350  /QQ/2c/J/44c leaf, utility: 0
+1351  /QQ/2c/J/44f leaf, utility: -7
+1352  /QQ/2c/J/4c leaf, utility: 0
+1353  /QQ/2c/J/4f leaf, utility: 3
+1354  /QQ/2c/J/c44c leaf, utility: 0
+1355  /QQ/2c/J/c44f leaf, utility: 7
+1356  /QQ/2c/J/c4c leaf, utility: 0
+1357  /QQ/2c/J/c4f leaf, utility: -3
+1358  /QQ/2c/J/cc leaf, utility: 0
+1359  /QQ/2c/K/44c leaf, utility: 0
+1360  /QQ/2c/K/44f leaf, utility: -7
+1361  /QQ/2c/K/4c leaf, utility: 0
+1362  /QQ/2c/K/4f leaf, utility: 3
+1363  /QQ/2c/K/c44c leaf, utility: 0
+1364  /QQ/2c/K/c44f leaf, utility: 7
+1365  /QQ/2c/K/c4c leaf, utility: 0
+1366  /QQ/2c/K/c4f leaf, utility: -3
+1367  /QQ/2c/K/cc leaf, utility: 0
+1368  /QQ/2f leaf, utility: 1
+1369  /QQ/c22c/J/44c leaf, utility: 0
+1370  /QQ/c22c/J/44f leaf, utility: -9
+1371  /QQ/c22c/J/4c leaf, utility: 0
+1372  /QQ/c22c/J/4f leaf, utility: 5
+1373  /QQ/c22c/J/c44c leaf, utility: 0
+1374  /QQ/c22c/J/c44f leaf, utility: 9
+1375  /QQ/c22c/J/c4c leaf, utility: 0
+1376  /QQ/c22c/J/c4f leaf, utility: -5
+1377  /QQ/c22c/J/cc leaf, utility: 0
+1378  /QQ/c22c/K/44c leaf, utility: 0
+1379  /QQ/c22c/K/44f leaf, utility: -9
+1380  /QQ/c22c/K/4c leaf, utility: 0
+1381  /QQ/c22c/K/4f leaf, utility: 5
+1382  /QQ/c22c/K/c44c leaf, utility: 0
+1383  /QQ/c22c/K/c44f leaf, utility: 9
+1384  /QQ/c22c/K/c4c leaf, utility: 0
+1385  /QQ/c22c/K/c4f leaf, utility: -5
+1386  /QQ/c22c/K/cc leaf, utility: 0
+1387  /QQ/c22f leaf, utility: 3
+1388  /QQ/c2c/J/44c leaf, utility: 0
+1389  /QQ/c2c/J/44f leaf, utility: -7
+1390  /QQ/c2c/J/4c leaf, utility: 0
+1391  /QQ/c2c/J/4f leaf, utility: 3
+1392  /QQ/c2c/J/c44c leaf, utility: 0
+1393  /QQ/c2c/J/c44f leaf, utility: 7
+1394  /QQ/c2c/J/c4c leaf, utility: 0
+1395  /QQ/c2c/J/c4f leaf, utility: -3
+1396  /QQ/c2c/J/cc leaf, utility: 0
+1397  /QQ/c2c/K/44c leaf, utility: 0
+1398  /QQ/c2c/K/44f leaf, utility: -7
+1399  /QQ/c2c/K/4c leaf, utility: 0
+1400  /QQ/c2c/K/4f leaf, utility: 3
+1401  /QQ/c2c/K/c44c leaf, utility: 0
+1402  /QQ/c2c/K/c44f leaf, utility: 7
+1403  /QQ/c2c/K/c4c leaf, utility: 0
+1404  /QQ/c2c/K/c4f leaf, utility: -3
+1405  /QQ/c2c/K/cc leaf, utility: 0
+1406  /QQ/c2f leaf, utility: -1
+1407  /QQ/cc/J/44c leaf, utility: 0
+1408  /QQ/cc/J/44f leaf, utility: -5
+1409  /QQ/cc/J/4c leaf, utility: 0
+1410  /QQ/cc/J/4f leaf, utility: 1
+1411  /QQ/cc/J/c44c leaf, utility: 0
+1412  /QQ/cc/J/c44f leaf, utility: 5
+1413  /QQ/cc/J/c4c leaf, utility: 0
+1414  /QQ/cc/J/c4f leaf, utility: -1
+1415  /QQ/cc/J/cc leaf, utility: 0
+1416  /QQ/cc/K/44c leaf, utility: 0
+1417  /QQ/cc/K/44f leaf, utility: -5
+1418  /QQ/cc/K/4c leaf, utility: 0
+1419  /QQ/cc/K/4f leaf, utility: 1
+1420  /QQ/cc/K/c44c leaf, utility: 0
+1421  /QQ/cc/K/c44f leaf, utility: 5
+1422  /QQ/cc/K/c4c leaf, utility: 0
+1423  /QQ/cc/K/c4f leaf, utility: -1
+1424  /QQ/cc/K/cc leaf, utility: 0
+1425  /QK/22c/J/44c leaf, utility: -13
+1426  /QK/22c/J/44f leaf, utility: -9
+1427  /QK/22c/J/4c leaf, utility: -9
+1428  /QK/22c/J/4f leaf, utility: 5
+1429  /QK/22c/J/c44c leaf, utility: -13
+1430  /QK/22c/J/c44f leaf, utility: 9
+1431  /QK/22c/J/c4c leaf, utility: -9
+1432  /QK/22c/J/c4f leaf, utility: -5
+1433  /QK/22c/J/cc leaf, utility: -5
+1434  /QK/22c/Q/44c leaf, utility: 13
+1435  /QK/22c/Q/44f leaf, utility: -9
+1436  /QK/22c/Q/4c leaf, utility: 9
+1437  /QK/22c/Q/4f leaf, utility: 5
+1438  /QK/22c/Q/c44c leaf, utility: 13
+1439  /QK/22c/Q/c44f leaf, utility: 9
+1440  /QK/22c/Q/c4c leaf, utility: 9
+1441  /QK/22c/Q/c4f leaf, utility: -5
+1442  /QK/22c/Q/cc leaf, utility: 5
+1443  /QK/22c/K/44c leaf, utility: -13
+1444  /QK/22c/K/44f leaf, utility: -9
+1445  /QK/22c/K/4c leaf, utility: -9
+1446  /QK/22c/K/4f leaf, utility: 5
+1447  /QK/22c/K/c44c leaf, utility: -13
+1448  /QK/22c/K/c44f leaf, utility: 9
+1449  /QK/22c/K/c4c leaf, utility: -9
+1450  /QK/22c/K/c4f leaf, utility: -5
+1451  /QK/22c/K/cc leaf, utility: -5
+1452  /QK/22f leaf, utility: -3
+1453  /QK/2c/J/44c leaf, utility: -11
+1454  /QK/2c/J/44f leaf, utility: -7
+1455  /QK/2c/J/4c leaf, utility: -7
+1456  /QK/2c/J/4f leaf, utility: 3
+1457  /QK/2c/J/c44c leaf, utility: -11
+1458  /QK/2c/J/c44f leaf, utility: 7
+1459  /QK/2c/J/c4c leaf, utility: -7
+1460  /QK/2c/J/c4f leaf, utility: -3
+1461  /QK/2c/J/cc leaf, utility: -3
+1462  /QK/2c/Q/44c leaf, utility: 11
+1463  /QK/2c/Q/44f leaf, utility: -7
+1464  /QK/2c/Q/4c leaf, utility: 7
+1465  /QK/2c/Q/4f leaf, utility: 3
+1466  /QK/2c/Q/c44c leaf, utility: 11
+1467  /QK/2c/Q/c44f leaf, utility: 7
+1468  /QK/2c/Q/c4c leaf, utility: 7
+1469  /QK/2c/Q/c4f leaf, utility: -3
+1470  /QK/2c/Q/cc leaf, utility: 3
+1471  /QK/2c/K/44c leaf, utility: -11
+1472  /QK/2c/K/44f leaf, utility: -7
+1473  /QK/2c/K/4c leaf, utility: -7
+1474  /QK/2c/K/4f leaf, utility: 3
+1475  /QK/2c/K/c44c leaf, utility: -11
+1476  /QK/2c/K/c44f leaf, utility: 7
+1477  /QK/2c/K/c4c leaf, utility: -7
+1478  /QK/2c/K/c4f leaf, utility: -3
+1479  /QK/2c/K/cc leaf, utility: -3
+1480  /QK/2f leaf, utility: 1
+1481  /QK/c22c/J/44c leaf, utility: -13
+1482  /QK/c22c/J/44f leaf, utility: -9
+1483  /QK/c22c/J/4c leaf, utility: -9
+1484  /QK/c22c/J/4f leaf, utility: 5
+1485  /QK/c22c/J/c44c leaf, utility: -13
+1486  /QK/c22c/J/c44f leaf, utility: 9
+1487  /QK/c22c/J/c4c leaf, utility: -9
+1488  /QK/c22c/J/c4f leaf, utility: -5
+1489  /QK/c22c/J/cc leaf, utility: -5
+1490  /QK/c22c/Q/44c leaf, utility: 13
+1491  /QK/c22c/Q/44f leaf, utility: -9
+1492  /QK/c22c/Q/4c leaf, utility: 9
+1493  /QK/c22c/Q/4f leaf, utility: 5
+1494  /QK/c22c/Q/c44c leaf, utility: 13
+1495  /QK/c22c/Q/c44f leaf, utility: 9
+1496  /QK/c22c/Q/c4c leaf, utility: 9
+1497  /QK/c22c/Q/c4f leaf, utility: -5
+1498  /QK/c22c/Q/cc leaf, utility: 5
+1499  /QK/c22c/K/44c leaf, utility: -13
+1500  /QK/c22c/K/44f leaf, utility: -9
+1501  /QK/c22c/K/4c leaf, utility: -9
+1502  /QK/c22c/K/4f leaf, utility: 5
+1503  /QK/c22c/K/c44c leaf, utility: -13
+1504  /QK/c22c/K/c44f leaf, utility: 9
+1505  /QK/c22c/K/c4c leaf, utility: -9
+1506  /QK/c22c/K/c4f leaf, utility: -5
+1507  /QK/c22c/K/cc leaf, utility: -5
+1508  /QK/c22f leaf, utility: 3
+1509  /QK/c2c/J/44c leaf, utility: -11
+1510  /QK/c2c/J/44f leaf, utility: -7
+1511  /QK/c2c/J/4c leaf, utility: -7
+1512  /QK/c2c/J/4f leaf, utility: 3
+1513  /QK/c2c/J/c44c leaf, utility: -11
+1514  /QK/c2c/J/c44f leaf, utility: 7
+1515  /QK/c2c/J/c4c leaf, utility: -7
+1516  /QK/c2c/J/c4f leaf, utility: -3
+1517  /QK/c2c/J/cc leaf, utility: -3
+1518  /QK/c2c/Q/44c leaf, utility: 11
+1519  /QK/c2c/Q/44f leaf, utility: -7
+1520  /QK/c2c/Q/4c leaf, utility: 7
+1521  /QK/c2c/Q/4f leaf, utility: 3
+1522  /QK/c2c/Q/c44c leaf, utility: 11
+1523  /QK/c2c/Q/c44f leaf, utility: 7
+1524  /QK/c2c/Q/c4c leaf, utility: 7
+1525  /QK/c2c/Q/c4f leaf, utility: -3
+1526  /QK/c2c/Q/cc leaf, utility: 3
+1527  /QK/c2c/K/44c leaf, utility: -11
+1528  /QK/c2c/K/44f leaf, utility: -7
+1529  /QK/c2c/K/4c leaf, utility: -7
+1530  /QK/c2c/K/4f leaf, utility: 3
+1531  /QK/c2c/K/c44c leaf, utility: -11
+1532  /QK/c2c/K/c44f leaf, utility: 7
+1533  /QK/c2c/K/c4c leaf, utility: -7
+1534  /QK/c2c/K/c4f leaf, utility: -3
+1535  /QK/c2c/K/cc leaf, utility: -3
+1536  /QK/c2f leaf, utility: -1
+1537  /QK/cc/J/44c leaf, utility: -9
+1538  /QK/cc/J/44f leaf, utility: -5
+1539  /QK/cc/J/4c leaf, utility: -5
+1540  /QK/cc/J/4f leaf, utility: 1
+1541  /QK/cc/J/c44c leaf, utility: -9
+1542  /QK/cc/J/c44f leaf, utility: 5
+1543  /QK/cc/J/c4c leaf, utility: -5
+1544  /QK/cc/J/c4f leaf, utility: -1
+1545  /QK/cc/J/cc leaf, utility: -1
+1546  /QK/cc/Q/44c leaf, utility: 9
+1547  /QK/cc/Q/44f leaf, utility: -5
+1548  /QK/cc/Q/4c leaf, utility: 5
+1549  /QK/cc/Q/4f leaf, utility: 1
+1550  /QK/cc/Q/c44c leaf, utility: 9
+1551  /QK/cc/Q/c44f leaf, utility: 5
+1552  /QK/cc/Q/c4c leaf, utility: 5
+1553  /QK/cc/Q/c4f leaf, utility: -1
+1554  /QK/cc/Q/cc leaf, utility: 1
+1555  /QK/cc/K/44c leaf, utility: -9
+1556  /QK/cc/K/44f leaf, utility: -5
+1557  /QK/cc/K/4c leaf, utility: -5
+1558  /QK/cc/K/4f leaf, utility: 1
+1559  /QK/cc/K/c44c leaf, utility: -9
+1560  /QK/cc/K/c44f leaf, utility: 5
+1561  /QK/cc/K/c4c leaf, utility: -5
+1562  /QK/cc/K/c4f leaf, utility: -1
+1563  /QK/cc/K/cc leaf, utility: -1
+1564  /KJ/22c/J/44c leaf, utility: -13
+1565  /KJ/22c/J/44f leaf, utility: -9
+1566  /KJ/22c/J/4c leaf, utility: -9
+1567  /KJ/22c/J/4f leaf, utility: 5
+1568  /KJ/22c/J/c44c leaf, utility: -13
+1569  /KJ/22c/J/c44f leaf, utility: 9
+1570  /KJ/22c/J/c4c leaf, utility: -9
+1571  /KJ/22c/J/c4f leaf, utility: -5
+1572  /KJ/22c/J/cc leaf, utility: -5
+1573  /KJ/22c/Q/44c leaf, utility: 13
+1574  /KJ/22c/Q/44f leaf, utility: -9
+1575  /KJ/22c/Q/4c leaf, utility: 9
+1576  /KJ/22c/Q/4f leaf, utility: 5
+1577  /KJ/22c/Q/c44c leaf, utility: 13
+1578  /KJ/22c/Q/c44f leaf, utility: 9
+1579  /KJ/22c/Q/c4c leaf, utility: 9
+1580  /KJ/22c/Q/c4f leaf, utility: -5
+1581  /KJ/22c/Q/cc leaf, utility: 5
+1582  /KJ/22c/K/44c leaf, utility: 13
+1583  /KJ/22c/K/44f leaf, utility: -9
+1584  /KJ/22c/K/4c leaf, utility: 9
+1585  /KJ/22c/K/4f leaf, utility: 5
+1586  /KJ/22c/K/c44c leaf, utility: 13
+1587  /KJ/22c/K/c44f leaf, utility: 9
+1588  /KJ/22c/K/c4c leaf, utility: 9
+1589  /KJ/22c/K/c4f leaf, utility: -5
+1590  /KJ/22c/K/cc leaf, utility: 5
+1591  /KJ/22f leaf, utility: -3
+1592  /KJ/2c/J/44c leaf, utility: -11
+1593  /KJ/2c/J/44f leaf, utility: -7
+1594  /KJ/2c/J/4c leaf, utility: -7
+1595  /KJ/2c/J/4f leaf, utility: 3
+1596  /KJ/2c/J/c44c leaf, utility: -11
+1597  /KJ/2c/J/c44f leaf, utility: 7
+1598  /KJ/2c/J/c4c leaf, utility: -7
+1599  /KJ/2c/J/c4f leaf, utility: -3
+1600  /KJ/2c/J/cc leaf, utility: -3
+1601  /KJ/2c/Q/44c leaf, utility: 11
+1602  /KJ/2c/Q/44f leaf, utility: -7
+1603  /KJ/2c/Q/4c leaf, utility: 7
+1604  /KJ/2c/Q/4f leaf, utility: 3
+1605  /KJ/2c/Q/c44c leaf, utility: 11
+1606  /KJ/2c/Q/c44f leaf, utility: 7
+1607  /KJ/2c/Q/c4c leaf, utility: 7
+1608  /KJ/2c/Q/c4f leaf, utility: -3
+1609  /KJ/2c/Q/cc leaf, utility: 3
+1610  /KJ/2c/K/44c leaf, utility: 11
+1611  /KJ/2c/K/44f leaf, utility: -7
+1612  /KJ/2c/K/4c leaf, utility: 7
+1613  /KJ/2c/K/4f leaf, utility: 3
+1614  /KJ/2c/K/c44c leaf, utility: 11
+1615  /KJ/2c/K/c44f leaf, utility: 7
+1616  /KJ/2c/K/c4c leaf, utility: 7
+1617  /KJ/2c/K/c4f leaf, utility: -3
+1618  /KJ/2c/K/cc leaf, utility: 3
+1619  /KJ/2f leaf, utility: 1
+1620  /KJ/c22c/J/44c leaf, utility: -13
+1621  /KJ/c22c/J/44f leaf, utility: -9
+1622  /KJ/c22c/J/4c leaf, utility: -9
+1623  /KJ/c22c/J/4f leaf, utility: 5
+1624  /KJ/c22c/J/c44c leaf, utility: -13
+1625  /KJ/c22c/J/c44f leaf, utility: 9
+1626  /KJ/c22c/J/c4c leaf, utility: -9
+1627  /KJ/c22c/J/c4f leaf, utility: -5
+1628  /KJ/c22c/J/cc leaf, utility: -5
+1629  /KJ/c22c/Q/44c leaf, utility: 13
+1630  /KJ/c22c/Q/44f leaf, utility: -9
+1631  /KJ/c22c/Q/4c leaf, utility: 9
+1632  /KJ/c22c/Q/4f leaf, utility: 5
+1633  /KJ/c22c/Q/c44c leaf, utility: 13
+1634  /KJ/c22c/Q/c44f leaf, utility: 9
+1635  /KJ/c22c/Q/c4c leaf, utility: 9
+1636  /KJ/c22c/Q/c4f leaf, utility: -5
+1637  /KJ/c22c/Q/cc leaf, utility: 5
+1638  /KJ/c22c/K/44c leaf, utility: 13
+1639  /KJ/c22c/K/44f leaf, utility: -9
+1640  /KJ/c22c/K/4c leaf, utility: 9
+1641  /KJ/c22c/K/4f leaf, utility: 5
+1642  /KJ/c22c/K/c44c leaf, utility: 13
+1643  /KJ/c22c/K/c44f leaf, utility: 9
+1644  /KJ/c22c/K/c4c leaf, utility: 9
+1645  /KJ/c22c/K/c4f leaf, utility: -5
+1646  /KJ/c22c/K/cc leaf, utility: 5
+1647  /KJ/c22f leaf, utility: 3
+1648  /KJ/c2c/J/44c leaf, utility: -11
+1649  /KJ/c2c/J/44f leaf, utility: -7
+1650  /KJ/c2c/J/4c leaf, utility: -7
+1651  /KJ/c2c/J/4f leaf, utility: 3
+1652  /KJ/c2c/J/c44c leaf, utility: -11
+1653  /KJ/c2c/J/c44f leaf, utility: 7
+1654  /KJ/c2c/J/c4c leaf, utility: -7
+1655  /KJ/c2c/J/c4f leaf, utility: -3
+1656  /KJ/c2c/J/cc leaf, utility: -3
+1657  /KJ/c2c/Q/44c leaf, utility: 11
+1658  /KJ/c2c/Q/44f leaf, utility: -7
+1659  /KJ/c2c/Q/4c leaf, utility: 7
+1660  /KJ/c2c/Q/4f leaf, utility: 3
+1661  /KJ/c2c/Q/c44c leaf, utility: 11
+1662  /KJ/c2c/Q/c44f leaf, utility: 7
+1663  /KJ/c2c/Q/c4c leaf, utility: 7
+1664  /KJ/c2c/Q/c4f leaf, utility: -3
+1665  /KJ/c2c/Q/cc leaf, utility: 3
+1666  /KJ/c2c/K/44c leaf, utility: 11
+1667  /KJ/c2c/K/44f leaf, utility: -7
+1668  /KJ/c2c/K/4c leaf, utility: 7
+1669  /KJ/c2c/K/4f leaf, utility: 3
+1670  /KJ/c2c/K/c44c leaf, utility: 11
+1671  /KJ/c2c/K/c44f leaf, utility: 7
+1672  /KJ/c2c/K/c4c leaf, utility: 7
+1673  /KJ/c2c/K/c4f leaf, utility: -3
+1674  /KJ/c2c/K/cc leaf, utility: 3
+1675  /KJ/c2f leaf, utility: -1
+1676  /KJ/cc/J/44c leaf, utility: -9
+1677  /KJ/cc/J/44f leaf, utility: -5
+1678  /KJ/cc/J/4c leaf, utility: -5
+1679  /KJ/cc/J/4f leaf, utility: 1
+1680  /KJ/cc/J/c44c leaf, utility: -9
+1681  /KJ/cc/J/c44f leaf, utility: 5
+1682  /KJ/cc/J/c4c leaf, utility: -5
+1683  /KJ/cc/J/c4f leaf, utility: -1
+1684  /KJ/cc/J/cc leaf, utility: -1
+1685  /KJ/cc/Q/44c leaf, utility: 9
+1686  /KJ/cc/Q/44f leaf, utility: -5
+1687  /KJ/cc/Q/4c leaf, utility: 5
+1688  /KJ/cc/Q/4f leaf, utility: 1
+1689  /KJ/cc/Q/c44c leaf, utility: 9
+1690  /KJ/cc/Q/c44f leaf, utility: 5
+1691  /KJ/cc/Q/c4c leaf, utility: 5
+1692  /KJ/cc/Q/c4f leaf, utility: -1
+1693  /KJ/cc/Q/cc leaf, utility: 1
+1694  /KJ/cc/K/44c leaf, utility: 9
+1695  /KJ/cc/K/44f leaf, utility: -5
+1696  /KJ/cc/K/4c leaf, utility: 5
+1697  /KJ/cc/K/4f leaf, utility: 1
+1698  /KJ/cc/K/c44c leaf, utility: 9
+1699  /KJ/cc/K/c44f leaf, utility: 5
+1700  /KJ/cc/K/c4c leaf, utility: 5
+1701  /KJ/cc/K/c4f leaf, utility: -1
+1702  /KJ/cc/K/cc leaf, utility: 1
+1703  /KQ/22c/J/44c leaf, utility: 13
+1704  /KQ/22c/J/44f leaf, utility: -9
+1705  /KQ/22c/J/4c leaf, utility: 9
+1706  /KQ/22c/J/4f leaf, utility: 5
+1707  /KQ/22c/J/c44c leaf, utility: 13
+1708  /KQ/22c/J/c44f leaf, utility: 9
+1709  /KQ/22c/J/c4c leaf, utility: 9
+1710  /KQ/22c/J/c4f leaf, utility: -5
+1711  /KQ/22c/J/cc leaf, utility: 5
+1712  /KQ/22c/Q/44c leaf, utility: -13
+1713  /KQ/22c/Q/44f leaf, utility: -9
+1714  /KQ/22c/Q/4c leaf, utility: -9
+1715  /KQ/22c/Q/4f leaf, utility: 5
+1716  /KQ/22c/Q/c44c leaf, utility: -13
+1717  /KQ/22c/Q/c44f leaf, utility: 9
+1718  /KQ/22c/Q/c4c leaf, utility: -9
+1719  /KQ/22c/Q/c4f leaf, utility: -5
+1720  /KQ/22c/Q/cc leaf, utility: -5
+1721  /KQ/22c/K/44c leaf, utility: 13
+1722  /KQ/22c/K/44f leaf, utility: -9
+1723  /KQ/22c/K/4c leaf, utility: 9
+1724  /KQ/22c/K/4f leaf, utility: 5
+1725  /KQ/22c/K/c44c leaf, utility: 13
+1726  /KQ/22c/K/c44f leaf, utility: 9
+1727  /KQ/22c/K/c4c leaf, utility: 9
+1728  /KQ/22c/K/c4f leaf, utility: -5
+1729  /KQ/22c/K/cc leaf, utility: 5
+1730  /KQ/22f leaf, utility: -3
+1731  /KQ/2c/J/44c leaf, utility: 11
+1732  /KQ/2c/J/44f leaf, utility: -7
+1733  /KQ/2c/J/4c leaf, utility: 7
+1734  /KQ/2c/J/4f leaf, utility: 3
+1735  /KQ/2c/J/c44c leaf, utility: 11
+1736  /KQ/2c/J/c44f leaf, utility: 7
+1737  /KQ/2c/J/c4c leaf, utility: 7
+1738  /KQ/2c/J/c4f leaf, utility: -3
+1739  /KQ/2c/J/cc leaf, utility: 3
+1740  /KQ/2c/Q/44c leaf, utility: -11
+1741  /KQ/2c/Q/44f leaf, utility: -7
+1742  /KQ/2c/Q/4c leaf, utility: -7
+1743  /KQ/2c/Q/4f leaf, utility: 3
+1744  /KQ/2c/Q/c44c leaf, utility: -11
+1745  /KQ/2c/Q/c44f leaf, utility: 7
+1746  /KQ/2c/Q/c4c leaf, utility: -7
+1747  /KQ/2c/Q/c4f leaf, utility: -3
+1748  /KQ/2c/Q/cc leaf, utility: -3
+1749  /KQ/2c/K/44c leaf, utility: 11
+1750  /KQ/2c/K/44f leaf, utility: -7
+1751  /KQ/2c/K/4c leaf, utility: 7
+1752  /KQ/2c/K/4f leaf, utility: 3
+1753  /KQ/2c/K/c44c leaf, utility: 11
+1754  /KQ/2c/K/c44f leaf, utility: 7
+1755  /KQ/2c/K/c4c leaf, utility: 7
+1756  /KQ/2c/K/c4f leaf, utility: -3
+1757  /KQ/2c/K/cc leaf, utility: 3
+1758  /KQ/2f leaf, utility: 1
+1759  /KQ/c22c/J/44c leaf, utility: 13
+1760  /KQ/c22c/J/44f leaf, utility: -9
+1761  /KQ/c22c/J/4c leaf, utility: 9
+1762  /KQ/c22c/J/4f leaf, utility: 5
+1763  /KQ/c22c/J/c44c leaf, utility: 13
+1764  /KQ/c22c/J/c44f leaf, utility: 9
+1765  /KQ/c22c/J/c4c leaf, utility: 9
+1766  /KQ/c22c/J/c4f leaf, utility: -5
+1767  /KQ/c22c/J/cc leaf, utility: 5
+1768  /KQ/c22c/Q/44c leaf, utility: -13
+1769  /KQ/c22c/Q/44f leaf, utility: -9
+1770  /KQ/c22c/Q/4c leaf, utility: -9
+1771  /KQ/c22c/Q/4f leaf, utility: 5
+1772  /KQ/c22c/Q/c44c leaf, utility: -13
+1773  /KQ/c22c/Q/c44f leaf, utility: 9
+1774  /KQ/c22c/Q/c4c leaf, utility: -9
+1775  /KQ/c22c/Q/c4f leaf, utility: -5
+1776  /KQ/c22c/Q/cc leaf, utility: -5
+1777  /KQ/c22c/K/44c leaf, utility: 13
+1778  /KQ/c22c/K/44f leaf, utility: -9
+1779  /KQ/c22c/K/4c leaf, utility: 9
+1780  /KQ/c22c/K/4f leaf, utility: 5
+1781  /KQ/c22c/K/c44c leaf, utility: 13
+1782  /KQ/c22c/K/c44f leaf, utility: 9
+1783  /KQ/c22c/K/c4c leaf, utility: 9
+1784  /KQ/c22c/K/c4f leaf, utility: -5
+1785  /KQ/c22c/K/cc leaf, utility: 5
+1786  /KQ/c22f leaf, utility: 3
+1787  /KQ/c2c/J/44c leaf, utility: 11
+1788  /KQ/c2c/J/44f leaf, utility: -7
+1789  /KQ/c2c/J/4c leaf, utility: 7
+1790  /KQ/c2c/J/4f leaf, utility: 3
+1791  /KQ/c2c/J/c44c leaf, utility: 11
+1792  /KQ/c2c/J/c44f leaf, utility: 7
+1793  /KQ/c2c/J/c4c leaf, utility: 7
+1794  /KQ/c2c/J/c4f leaf, utility: -3
+1795  /KQ/c2c/J/cc leaf, utility: 3
+1796  /KQ/c2c/Q/44c leaf, utility: -11
+1797  /KQ/c2c/Q/44f leaf, utility: -7
+1798  /KQ/c2c/Q/4c leaf, utility: -7
+1799  /KQ/c2c/Q/4f leaf, utility: 3
+1800  /KQ/c2c/Q/c44c leaf, utility: -11
+1801  /KQ/c2c/Q/c44f leaf, utility: 7
+1802  /KQ/c2c/Q/c4c leaf, utility: -7
+1803  /KQ/c2c/Q/c4f leaf, utility: -3
+1804  /KQ/c2c/Q/cc leaf, utility: -3
+1805  /KQ/c2c/K/44c leaf, utility: 11
+1806  /KQ/c2c/K/44f leaf, utility: -7
+1807  /KQ/c2c/K/4c leaf, utility: 7
+1808  /KQ/c2c/K/4f leaf, utility: 3
+1809  /KQ/c2c/K/c44c leaf, utility: 11
+1810  /KQ/c2c/K/c44f leaf, utility: 7
+1811  /KQ/c2c/K/c4c leaf, utility: 7
+1812  /KQ/c2c/K/c4f leaf, utility: -3
+1813  /KQ/c2c/K/cc leaf, utility: 3
+1814  /KQ/c2f leaf, utility: -1
+1815  /KQ/cc/J/44c leaf, utility: 9
+1816  /KQ/cc/J/44f leaf, utility: -5
+1817  /KQ/cc/J/4c leaf, utility: 5
+1818  /KQ/cc/J/4f leaf, utility: 1
+1819  /KQ/cc/J/c44c leaf, utility: 9
+1820  /KQ/cc/J/c44f leaf, utility: 5
+1821  /KQ/cc/J/c4c leaf, utility: 5
+1822  /KQ/cc/J/c4f leaf, utility: -1
+1823  /KQ/cc/J/cc leaf, utility: 1
+1824  /KQ/cc/Q/44c leaf, utility: -9
+1825  /KQ/cc/Q/44f leaf, utility: -5
+1826  /KQ/cc/Q/4c leaf, utility: -5
+1827  /KQ/cc/Q/4f leaf, utility: 1
+1828  /KQ/cc/Q/c44c leaf, utility: -9
+1829  /KQ/cc/Q/c44f leaf, utility: 5
+1830  /KQ/cc/Q/c4c leaf, utility: -5
+1831  /KQ/cc/Q/c4f leaf, utility: -1
+1832  /KQ/cc/Q/cc leaf, utility: -1
+1833  /KQ/cc/K/44c leaf, utility: 9
+1834  /KQ/cc/K/44f leaf, utility: -5
+1835  /KQ/cc/K/4c leaf, utility: 5
+1836  /KQ/cc/K/4f leaf, utility: 1
+1837  /KQ/cc/K/c44c leaf, utility: 9
+1838  /KQ/cc/K/c44f leaf, utility: 5
+1839  /KQ/cc/K/c4c leaf, utility: 5
+1840  /KQ/cc/K/c4f leaf, utility: -1
+1841  /KQ/cc/K/cc leaf, utility: 1
+1842  /KK/22c/J/44c leaf, utility: 0
+1843  /KK/22c/J/44f leaf, utility: -9
+1844  /KK/22c/J/4c leaf, utility: 0
+1845  /KK/22c/J/4f leaf, utility: 5
+1846  /KK/22c/J/c44c leaf, utility: 0
+1847  /KK/22c/J/c44f leaf, utility: 9
+1848  /KK/22c/J/c4c leaf, utility: 0
+1849  /KK/22c/J/c4f leaf, utility: -5
+1850  /KK/22c/J/cc leaf, utility: 0
+1851  /KK/22c/Q/44c leaf, utility: 0
+1852  /KK/22c/Q/44f leaf, utility: -9
+1853  /KK/22c/Q/4c leaf, utility: 0
+1854  /KK/22c/Q/4f leaf, utility: 5
+1855  /KK/22c/Q/c44c leaf, utility: 0
+1856  /KK/22c/Q/c44f leaf, utility: 9
+1857  /KK/22c/Q/c4c leaf, utility: 0
+1858  /KK/22c/Q/c4f leaf, utility: -5
+1859  /KK/22c/Q/cc leaf, utility: 0
+1860  /KK/22f leaf, utility: -3
+1861  /KK/2c/J/44c leaf, utility: 0
+1862  /KK/2c/J/44f leaf, utility: -7
+1863  /KK/2c/J/4c leaf, utility: 0
+1864  /KK/2c/J/4f leaf, utility: 3
+1865  /KK/2c/J/c44c leaf, utility: 0
+1866  /KK/2c/J/c44f leaf, utility: 7
+1867  /KK/2c/J/c4c leaf, utility: 0
+1868  /KK/2c/J/c4f leaf, utility: -3
+1869  /KK/2c/J/cc leaf, utility: 0
+1870  /KK/2c/Q/44c leaf, utility: 0
+1871  /KK/2c/Q/44f leaf, utility: -7
+1872  /KK/2c/Q/4c leaf, utility: 0
+1873  /KK/2c/Q/4f leaf, utility: 3
+1874  /KK/2c/Q/c44c leaf, utility: 0
+1875  /KK/2c/Q/c44f leaf, utility: 7
+1876  /KK/2c/Q/c4c leaf, utility: 0
+1877  /KK/2c/Q/c4f leaf, utility: -3
+1878  /KK/2c/Q/cc leaf, utility: 0
+1879  /KK/2f leaf, utility: 1
+1880  /KK/c22c/J/44c leaf, utility: 0
+1881  /KK/c22c/J/44f leaf, utility: -9
+1882  /KK/c22c/J/4c leaf, utility: 0
+1883  /KK/c22c/J/4f leaf, utility: 5
+1884  /KK/c22c/J/c44c leaf, utility: 0
+1885  /KK/c22c/J/c44f leaf, utility: 9
+1886  /KK/c22c/J/c4c leaf, utility: 0
+1887  /KK/c22c/J/c4f leaf, utility: -5
+1888  /KK/c22c/J/cc leaf, utility: 0
+1889  /KK/c22c/Q/44c leaf, utility: 0
+1890  /KK/c22c/Q/44f leaf, utility: -9
+1891  /KK/c22c/Q/4c leaf, utility: 0
+1892  /KK/c22c/Q/4f leaf, utility: 5
+1893  /KK/c22c/Q/c44c leaf, utility: 0
+1894  /KK/c22c/Q/c44f leaf, utility: 9
+1895  /KK/c22c/Q/c4c leaf, utility: 0
+1896  /KK/c22c/Q/c4f leaf, utility: -5
+1897  /KK/c22c/Q/cc leaf, utility: 0
+1898  /KK/c22f leaf, utility: 3
+1899  /KK/c2c/J/44c leaf, utility: 0
+1900  /KK/c2c/J/44f leaf, utility: -7
+1901  /KK/c2c/J/4c leaf, utility: 0
+1902  /KK/c2c/J/4f leaf, utility: 3
+1903  /KK/c2c/J/c44c leaf, utility: 0
+1904  /KK/c2c/J/c44f leaf, utility: 7
+1905  /KK/c2c/J/c4c leaf, utility: 0
+1906  /KK/c2c/J/c4f leaf, utility: -3
+1907  /KK/c2c/J/cc leaf, utility: 0
+1908  /KK/c2c/Q/44c leaf, utility: 0
+1909  /KK/c2c/Q/44f leaf, utility: -7
+1910  /KK/c2c/Q/4c leaf, utility: 0
+1911  /KK/c2c/Q/4f leaf, utility: 3
+1912  /KK/c2c/Q/c44c leaf, utility: 0
+1913  /KK/c2c/Q/c44f leaf, utility: 7
+1914  /KK/c2c/Q/c4c leaf, utility: 0
+1915  /KK/c2c/Q/c4f leaf, utility: -3
+1916  /KK/c2c/Q/cc leaf, utility: 0
+1917  /KK/c2f leaf, utility: -1
+1918  /KK/cc/J/44c leaf, utility: 0
+1919  /KK/cc/J/44f leaf, utility: -5
+1920  /KK/cc/J/4c leaf, utility: 0
+1921  /KK/cc/J/4f leaf, utility: 1
+1922  /KK/cc/J/c44c leaf, utility: 0
+1923  /KK/cc/J/c44f leaf, utility: 5
+1924  /KK/cc/J/c4c leaf, utility: 0
+1925  /KK/cc/J/c4f leaf, utility: -1
+1926  /KK/cc/J/cc leaf, utility: 0
+1927  /KK/cc/Q/44c leaf, utility: 0
+1928  /KK/cc/Q/44f leaf, utility: -5
+1929  /KK/cc/Q/4c leaf, utility: 0
+1930  /KK/cc/Q/4f leaf, utility: 1
+1931  /KK/cc/Q/c44c leaf, utility: 0
+1932  /KK/cc/Q/c44f leaf, utility: 5
+1933  /KK/cc/Q/c4c leaf, utility: 0
+1934  /KK/cc/Q/c4f leaf, utility: -1
+1935  /KK/cc/Q/cc leaf, utility: 0
+STRATEGY_PROFILE:
+	player: 0
+		infoset: 0
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 1
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 2
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 3
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 4
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 5
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 6
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 7
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 8
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 9
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 10
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 11
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 12
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 13
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 14
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 15
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 16
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 17
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 18
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 19
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 20
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 21
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 22
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 23
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 24
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 25
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 26
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 27
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 28
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 29
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 30
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 31
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 32
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 33
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 34
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 35
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 36
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 37
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 38
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 39
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 40
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 41
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 42
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 43
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 44
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 45
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 46
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 47
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 48
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 49
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 50
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 51
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 52
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 53
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 54
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 55
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 56
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 57
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 58
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 59
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 60
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 61
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 62
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 63
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 64
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 65
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 66
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 67
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 68
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 69
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 70
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 71
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 72
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 73
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 74
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 75
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 76
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 77
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 78
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 79
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 80
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 81
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 82
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 83
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 84
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 85
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 86
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 87
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 88
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 89
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 90
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 91
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 92
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 93
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 94
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 95
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 96
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 97
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 98
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 99
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 100
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 101
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 102
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 103
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 104
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 105
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 106
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 107
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 108
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 109
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 110
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 111
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 112
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 113
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 114
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 115
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 116
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 117
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 118
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 119
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 120
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 121
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 122
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 123
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 124
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 125
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 126
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 127
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 128
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 129
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 130
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 131
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 132
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 133
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 134
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 135
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 136
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 137
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 138
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 139
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 140
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 141
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 142
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 143
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+	player: 1
+		infoset: 0
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 1
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 2
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 3
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 4
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 5
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 6
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 7
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 8
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 9
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 10
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 11
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 12
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 13
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 14
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 15
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 16
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 17
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 18
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 19
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 20
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 21
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 22
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 23
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 24
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 25
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 26
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 27
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 28
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 29
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 30
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 31
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 32
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 33
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 34
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 35
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 36
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 37
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 38
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 39
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 40
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 41
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 42
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 43
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 44
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 45
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 46
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 47
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 48
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 49
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 50
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 51
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 52
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 53
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 54
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 55
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 56
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 57
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 58
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 59
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 60
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 61
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 62
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 63
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 64
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 65
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 66
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 67
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 68
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 69
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 70
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 71
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 72
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 73
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 74
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 75
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 76
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 77
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 78
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 79
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 80
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 81
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 82
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 83
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 84
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 85
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 86
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 87
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 88
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 89
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 90
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 91
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 92
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 93
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 94
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 95
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 96
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 97
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 98
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 99
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 100
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 101
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 102
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 103
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 104
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 105
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 106
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 107
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 108
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 109
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 110
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 111
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 112
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 113
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 114
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 115
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 116
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 117
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 118
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 119
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 120
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 121
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 122
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 123
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 124
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 125
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 126
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 127
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 128
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 129
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 130
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 131
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 132
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 133
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 134
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 135
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 136
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 137
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 138
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 139
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 140
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 141
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 142
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 143
+			action probabilities: {0: 0.5, 1: 0.5}
+STRATEGY_PROFILE:
+	player: 0
+		infoset: 0
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 1
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 2
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 3
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 4
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 5
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 6
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 7
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 8
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 9
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 10
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 11
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 12
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 13
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 14
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 15
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 16
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 17
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 18
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 19
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 20
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 21
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 22
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 23
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 24
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 25
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 26
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 27
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 28
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 29
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 30
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 31
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 32
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 33
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 34
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 35
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 36
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 37
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 38
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 39
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 40
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 41
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 42
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 43
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 44
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 45
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 46
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 47
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 48
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 49
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 50
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 51
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 52
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 53
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 54
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 55
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 56
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 57
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 58
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 59
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 60
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 61
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 62
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 63
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 64
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 65
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 66
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 67
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 68
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 69
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 70
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 71
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 72
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 73
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 74
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 75
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 76
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 77
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 78
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 79
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 80
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 81
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 82
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 83
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 84
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 85
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 86
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 87
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 88
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 89
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 90
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 91
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 92
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 93
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 94
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 95
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 96
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 97
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 98
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 99
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 100
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 101
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 102
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 103
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 104
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 105
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 106
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 107
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 108
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 109
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 110
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 111
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 112
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 113
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 114
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 115
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 116
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 117
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 118
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 119
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 120
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 121
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 122
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 123
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 124
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 125
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 126
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 127
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 128
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 129
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 130
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 131
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 132
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 133
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 134
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 135
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 136
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 137
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 138
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 139
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 140
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 141
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 142
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 143
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+	player: 1
+		infoset: 0
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 1
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 2
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 3
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 4
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 5
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 6
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 7
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 8
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 9
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 10
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 11
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 12
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 13
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 14
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 15
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 16
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 17
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 18
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 19
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 20
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 21
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 22
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 23
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 24
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 25
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 26
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 27
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 28
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 29
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 30
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 31
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 32
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 33
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 34
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 35
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 36
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 37
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 38
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 39
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 40
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 41
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 42
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 43
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 44
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 45
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 46
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 47
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 48
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 49
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 50
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 51
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 52
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 53
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 54
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 55
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 56
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 57
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 58
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 59
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 60
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 61
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 62
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 63
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 64
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 65
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 66
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 67
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 68
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 69
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 70
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 71
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 72
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 73
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 74
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 75
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 76
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 77
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 78
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 79
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 80
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 81
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 82
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 83
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 84
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 85
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 86
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 87
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 88
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 89
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 90
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 91
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 92
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 93
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 94
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 95
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 96
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 97
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 98
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 99
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 100
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 101
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 102
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 103
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 104
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 105
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 106
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 107
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 108
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 109
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 110
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 111
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 112
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 113
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 114
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 115
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 116
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 117
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 118
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 119
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 120
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 121
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 122
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 123
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 124
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 125
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 126
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 127
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 128
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 129
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 130
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 131
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 132
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 133
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 134
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 135
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 136
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 137
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 138
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 139
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 140
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 141
+			action probabilities: {0: 0.3333333333333333, 1: 0.3333333333333333, 2: 0.3333333333333333}
+		infoset: 142
+			action probabilities: {0: 0.5, 1: 0.5}
+		infoset: 143
+			action probabilities: {0: 0.5, 1: 0.5}
+else:
+else:
+else:
+  node_id: 71
+0 0 0
+else:
+else:
+else:
+else:
+  node_id: 47
+0 1 0
+else:
+0 1 1
+0 1 2
